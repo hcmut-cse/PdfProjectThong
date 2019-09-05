@@ -1,0 +1,252 @@
+[
+	{
+		"Attn":
+		{
+			"row": [1,2],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Shipper",
+				"left": "Attn",
+				"right": -1
+			}
+		},
+
+		"Shipper":
+		{
+			"row": [3,7],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Shipper",
+				"bottom": "Consignee",
+				"left": -1,
+				"right": -1
+			}
+		},
+
+		"Consignee":
+		{
+			"row": [8,13],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Consignee",
+				"bottom": "Notify",
+				"left": -1,
+				"right": -1
+			}
+		},
+
+		"Notify":
+		{
+			"row": [14,15],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Notify",
+				"bottom": "Shipping Mark",
+				"left": -1,
+				"right": -1
+			}
+		},
+
+		"Shipping Mark":
+		{
+			"row": [15,16],
+			"column": [16,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Booking No.",
+				"left": "Shipping Mark",
+				"right": -1
+			}
+		},
+
+		"Booking No.":
+		{
+			"row": [16,17],
+			"column": [15,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Container/Seal No.",
+				"left": "Booking No.",
+				"right": -1
+			}
+		},
+
+		"Container/Seal No.":
+		{
+			"row": [17,18],
+			"column": [22,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Temperature/Ventilation",
+				"left": "Container/Seal No.",
+				"right": -1
+			}
+		},
+
+		"Temperature/Ventilation":
+		{
+			"row": [19,20],
+			"column": [27,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Port of Discharge",
+				"left": "Temperature/Ventilation",
+				"right": -1
+			}
+		},
+
+		"Port of Discharge":
+		{
+			"row": [20,21],
+			"column": [22,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "ETD",
+				"left": "Port of Discharge",
+				"right": -1
+			}
+		},
+
+		"ETD":
+		{
+			"row": [21,22],
+			"column": [7,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Commodity",
+				"left": "ETD",
+				"right": -1
+			}
+		},
+
+		"Commodity":
+		{
+			"row": [22,23],
+			"column": [13,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Volume",
+				"left": "Commodity",
+				"right": -1
+			}
+		},
+
+		"Volume":
+		{
+			"row": [23,24],
+			"column": [10,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Gross Weight",
+				"left": "Volume",
+				"right": -1
+			}
+		},
+
+		"Gross Weight":
+		{
+			"row": [24,25],
+			"column": [16,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Prepaid",
+				"left": "Gross Weight:",
+				"right": -1
+			}
+		},
+
+		"Payment":
+		{
+			"row": [25,26],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": -1,
+				"bottom": -1,
+				"left": -1,
+				"right": -1
+			}
+		},
+
+		"Bill type":
+		{
+			"row": [26,27],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": -1,
+				"bottom": -1,
+				"left": -1,
+				"right": -1
+			},
+			"subfields":
+			{
+				"Bill type": "Please issue [A-Z\\s\\-]*\\n?\\s?"
+			}
+		},
+
+		"DATA":
+		{
+			"row": [27,null],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": -1,
+				"bottom": -1,
+				"left": -1,
+				"right": -1
+			},
+			"hasSubfield": 1,
+			"subfields":
+			{
+				"Name": "\\n[A-Z]*[a-z]* [A-Z]*[a-z]* [A-Z]*[a-z]*\\n",
+				"Mobile": "\\+*[0-9]* [0-9]+",
+				"Email": "[a-z\\.]+@[a-z\\.]+",
+				"Leftovers": 10
+			}
+		}
+	},
+
+	{
+		"Header": {
+        	"row": [0, 0],
+        	"column": [0, null],
+        	"pages": "all"
+      	},
+      	"Footer": {
+        	"row": [-1, null],
+        	"column": [0, null],
+        	"pages": "all"
+      	}
+	}
+]

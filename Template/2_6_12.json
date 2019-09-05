@@ -1,0 +1,277 @@
+[
+    {
+        "HeaderDATA": {
+            "row": [0, 7],
+            "column": [0, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": -1,
+                "bottom": "From",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "From": {
+            "row": [7, 8],
+            "column": [29, 92],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Tel",
+                "left": "From",
+                "right": "To"
+            }
+        },
+        "To": {
+            "row": [7, 8],
+            "column": [92, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Attn",
+                "left": "To",
+                "right": -1
+            }
+        },
+        "Tel": {
+            "row": [8, 9],
+            "column": [29, 92],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Booking No.",
+                "left": "Tel",
+                "right": "Attn"
+            }
+        },
+        "Attn": {
+            "row": [8, 9],
+            "column": [113, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Date",
+                "left": "Attn",
+                "right": -1
+            }
+        },
+        "Booking No.": {
+            "row": [9, 10],
+            "column": [29, 92],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "SHIPPING INSTRUCTION",
+                "left": "Booking No.",
+                "right": "Date"
+            }
+        },
+        "Date": {
+            "row": [9, 10],
+            "column": [113, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "SHIPPING INSTRUCTION",
+                "left": "Date",
+                "right": -1
+            }
+        },
+        "Shipper Name & Address": {
+            "row": [12, 18],
+            "column": [0, 91],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Shipper Name & Address",
+                "bottom": "Notify Party",
+                "left": -1,
+                "right": "Consignee Name & Address"
+            }
+        },
+        "Consignee Name & Address": {
+            "row": [12, 18],
+            "column": [91, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Consignee Name & Address",
+                "bottom": "Port of Loading",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Notify Party": {
+            "row": [19, 20],
+            "column": [0, 91],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Notify Party",
+                "bottom": "Port of Discharge",
+                "left": -1,
+                "right": "Port of Loading"
+            }
+        },
+        "Port of Loading": {
+            "row": [19, 20],
+            "column": [91, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of Loading",
+                "bottom": "Vessel",
+                "left": "Notify Party",
+                "right": -1
+            }
+        },
+        "Port of Discharge": {
+            "row": [21, 22],
+            "column": [0, 63],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of Discharge",
+                "bottom": "Container\\/Seal No\\.",
+                "left": -1,
+                "right": "Place of Delivery"
+            }
+        },
+        "Place of Delivery": {
+            "row": [21, 22],
+            "column": [63, 113],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Place of Delivery",
+                "bottom": "Description of Goods",
+                "left": "Port of Discharge",
+                "right": "Vessel"
+            }
+        },
+        "Vessel": {
+            "row": [21, 23],
+            "column": [113, 143],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Vessel",
+                "bottom": "Description of Goods",
+                "left": "Place of Delivery",
+                "right": "Etd"
+            }
+        },
+        "Etd": {
+            "row": [21, 22],
+            "column": [143, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Etd",
+                "bottom": "CBM",
+                "left": "Vessel",
+                "right": -1
+            }
+        },
+        "Container/Seal No.": {
+            "row": [24, 28],
+            "column": [0,50],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Container/Seal No.",
+                "bottom": "Total",
+                "left": -1,
+                "right": "Packages"
+            }
+        },
+        "Packages": {
+            "row": [24, 28],
+            "column": [50, 73],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Packages",
+                "bottom": "Total",
+                "left": "Container/Seal No.",
+                "right": "Description of Goods"
+            }
+        },
+        "Description of Goods": {
+            "row": [24, 26],
+            "column": [73, 120],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Description of Goods",
+                "bottom": "Total",
+                "left": "Packages",
+                "right": "G\\.W \\(KGS\\)"
+            }
+        },
+        "G.W (KGS)": {
+            "row": [24, 28],
+            "column": [120, 146],
+            "isFlex": 1,
+            "endObject": {
+                "top": "G\\.W \\(KGS\\)",
+                "bottom": "Total",
+                "left": "Description of Goods",
+                "right": "CBM"
+            }
+        },
+        "CBM": {
+            "row": [24, 28],
+            "column": [146, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "CBM",
+                "bottom": "Total",
+                "left": "G\\.W \\(KGS\\)",
+                "right": -1
+            }
+        },
+        "Total":
+        {
+            "row": [25, 26],
+            "column": [0, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Remarks",
+                "left": "Total",
+                "right": -1
+            },
+            "subfields":
+            {
+                "Total type": "(([0-9]+)X([0-9]+)(\\´)(DC|RF|HC) & )*(([0-9]+)X([0-9]+)(\\´)(DC|RF|HC))",
+                "Total Packages": "[0-9,.]* (CTNS|PKGS|PCS|PACKAGES|PKG)",
+                "Total G.W (KGS)": "[0-9]+(,)[0-9]+(\\.)[0-9]+",
+                "Total CBM": "[0-9.]+"
+            }
+        },
+        "Remarks": {
+            "row": [29, null],
+            "column": [20, 106],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": -1,
+                "left": "Remarks",
+                "right": "Payment"
+            }
+        },
+        "Payment": {
+            "row": [29, 30],
+            "column": [125, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": -1,
+                "left": "Payment",
+                "right": -1
+            }
+        }
+    },
+    {
+      "Header": {
+        "row": [0, 0],
+        "column": [0, null],
+        "pages": "all"
+      },
+      "Footer": {
+        "row": [-2, null],
+        "column": [0, null],
+        "pages": "all"
+      }
+    }
+]

@@ -1,0 +1,70 @@
+                                                                                                                                                                     Date :
+                      SHIPPING INSTRUCTION                                            To:              Ocean Network Express                                         Attn :
+Shipper (complete name and address)                                                   Customers contact (name / tel / email) (for draft BL dispatching) :
+TOMY (HONG KONG) LIMITED
+UNIT 901-906,TOWER 1, ENTERPRISE SQUARE, 9 SHEUNG                                     Booking No.:
+YUET ROAD, KOWLOON BAY, HONG KONG                                                     B/L No.: ONEYHPHV04842700
+Enterprise code ：19493597-000-11-17-6                                                                                                                     ORIGINAL    SURRENDER          SEAWAY
+                                                                                                                          Bill of lading type :
+                                                                                                                    (Please mark (X) which is relevant)
+                                                                                                                                                                                              X
+Consignee (complete name and address)
+                                                                                      Place of issue :
+TOMY INTERNATIONAL, INC.                                                                                                                                                HAIPHONG
+2021 9TH. STREET SE                                                                   Other requests :
+DYERSVILLE, IA 52040-2316                                                             CY TO DOOR
+ATTN: Scott Sampson                                                                   PLEASE SEND COPY OF WAYBILL TO: Ricky.Liu@tomy.com.hk
+TEL: 563-875-5686                                                                     AMS FEE SHOULD BE PREPAID
+Enterprise code (EIN number): 51-0305290
+Notify Party (complete name and address)                                              Also Notify Party (complete name and address)
+E. BESLER & CO.                                                                       1) TOMY INTERNATIONAL, INC.
+115 MARTIN LANE                                                                       101 CENTERPOINT DRIVE ROCHELLE, IL 61068
+ELK GROVE VILLAGE, IL 60007-1309                                                      Attn: DAVID MEADS
+ATTN: KRISTY DOST                                                                     Tel: 815-562-8008 Ext:3394
+TEL: 847-871-6458 FAX: 847-364-0300                                                   2) TOYS SHIPPERS ASSOCIATION INC.
+                                                                                      2001 Ford Circle Dr Ste B Milford,Ohio,United States 45150
+Feeder vessel                           Voy No      Pace of Receipt                   Service Contract Number
+                                                    HAIPHONG, VIETNAM                 CHIB00285
+Mother vessel                           Voy No      Port of Loading                   Final destination ( for the merchant's reference )
+CONTI CRYSTAL V.109E                                HAIPHONG, VIETNAM
+Port of Discharge                                   Place of Delivery
+TACOMA,WA                                           ROCHELLE, IL (DOOR)
+                                                                                   PARTICULAR FURNISHED BY SHIPPER - CARRIER NOT RESPONSIBLE
+                                                                                                                          Description of goods:           No/Kind of  Gross Weight     Measurement
+         Container/Seal No            Size/ Type             Shipping Marks
+                                                                                                                          HS CODE/ HTS/ NCM:              Packages          (Kgs)          (Cbm)
+DFSU6323560           MOL074372N 40'HQ              TOMY                              PLASTIC TOYS / PLASTIC FEEDING PRODUCTS
+                                                    ITEM NO.:                         HS CODE: 950300 / 392410                                              2211              5,192.34    64.7000
+                                                    QTY.: PCS                         THE 3RD NOTIFY PARTY:
+                                                    DESC.:                            SAME AS CONSIGNEE
+                                                    MADE IN VIETNAM
+                                                                                      S/C : CHIB00285
+                                                                                      "FREIGHT COLLECT"
+                                                                                      THIS SHIPMENT CONTAINS NO ANY SOLID WOOD PACKING MATERIALS
+                                                                                                                                  TOTAL:                    2211         5,192.34           64.70
+Payment Terms ( Prepaid or Collect or Paid at 3rd country )                                                                                               PREPAID       COLLECT        3rd COUNTRY
+(Please mark (X) which is relevant. In case payment at 3rd country , pls provide exactly location name)
+Payer (full name and address)
+(Pls provide fully information of prepaid / collect / 3rd country payer )
+Other remarks :
+Remark :
+In case amendment is required for Bill of Lading, please clearly mark points need to amend on the copy B/L and resend to us (not resend SI)
+Trong trường
+        trường hợp cần chỉnh sửa vận đơn, vui lòng   lòng chỉ
+                                                           chỉ rõ những chi tiết cần chỉnh sửa trên bản vận đơn copy và gửigửi lại cho chúng tôi
+( vui lòng không gửigửi lại SI)
+                                         ATTACHED SHEET
+Date : 22-Apr-19                                                                 Page 1 of 1
+RE : VESSEL : CONTI CRYSTAL V.109E                    DESTINATION : ROCHELLE, IL
+1) ASSIGNED CONTAINER NO.        0449/2019
+   S/O NO.         : HPHV04842700
+   SIZE            : 40HQ
+   CONT. NO.       : DFSU6323560
+   SEAL NO.        : MOL074372N
+   TOTAL GR. WT. :     11,446.26 LBS/    5,192.34 KGS
+   TOTAL MEAS.     :       64.70 CBM
+   TOTAL CTNS.     :       2,211CARTONS
+ GRAND TOTAL PACKAGE:          2,211 CTNS
+           G. W.: 11,446.26 LBS/    5,192.34 KGS
+          MEAS.:      64.70 CBM
+                                                    **END**

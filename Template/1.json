@@ -1,0 +1,164 @@
+[
+    {
+        "From": {
+                "row": [1, 2],
+                "column": [5, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "Sent",
+                    "left": "From",
+                    "right": -1
+                }
+        },
+
+        "Sent": {
+                "row": [2, 3],
+                "column": [5, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "To",
+                    "left": "Sent",
+                    "right": -1
+                }
+        },
+
+        "To": {
+                "row": [3, 4],
+                "column": [4, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "Cc",
+                    "left": "To",
+                    "right": -1
+                },
+                "alias":
+                {
+                    "alias_0":
+                    {
+                        "name": "TO"
+                    }
+                }
+        },
+
+        "Cc": {
+                "row": [4, 6],
+                "column": [4, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "Subject",
+                    "left": "Cc",
+                    "right": -1
+                }
+        },
+
+        "Subject": {
+                "row": [7, 8],
+                "column": [8, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Subject",
+                    "bottom": "SHIPPER",
+                    "left": -1,
+                    "right": -1
+                }
+        },    
+
+        "SHIPPER": {
+                "row": [10, 14],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "SHIPPER",
+                    "bottom": "CNEE",
+                    "left": -1,
+                    "right": -1
+                },
+                "alias":
+                {
+                    "alias_0":
+                    {
+                        "name": "Shipper"
+                    }
+                }
+        },
+
+
+        "CNEE": {
+                "row": [15, 20],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "CNEE",
+                    "bottom": "DESCRIPTION OF GOODS",
+                    "left": -1,
+                    "right": -1
+                },
+                "alias":
+                {
+                    "alias_0":
+                    {
+                        "name": "Consignee"
+                    },
+                     "alias_1":
+                    {
+                        "name": "CONSIGNEE"
+                    }
+                }
+        },
+
+        "DESCRIPTION OF GOODS": {
+                "row": [21, 26],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "DESCRIPTION OF GOODS",
+                    "bottom": "Notes",
+                    "left": -1,
+                    "right": -1
+                },
+                "alias":
+                {
+                    "alias_0":
+                    {
+                        "name": "DESCRIPTION OF"
+                    }
+                }
+        },
+
+        "Notes": {
+                "row": [25, 26],
+                "column": [6, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "Thanks",
+                    "left": "Notes:",
+                    "right": -1
+                },
+                "alias":
+                {
+                    "alias_0":
+                    {
+                        "name": "Please note"
+                    }
+                }
+
+        }
+    },
+    {
+        "Header": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]

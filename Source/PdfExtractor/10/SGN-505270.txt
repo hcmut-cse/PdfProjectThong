@@ -1,0 +1,171 @@
+------------------------------------
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)
+CO.,LTD.AS AGENT FOR
+PANTAINER(H.K)LTD.,3/F HAI AU
+BLDG,39B TRUONG SON ST,WARD 4,
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM
+
+------------------------------------
+------------------------------------
+DATA1:
+SGN 505270
+<SHIPPING INSTRUCTION
+
+OCEAN NETWORK EXPRESS PTE
+<BOOKING REFERENCE:
+SGNV62134600
+------------------------------------
+------------------------------------
+DATA2:
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA BSC CHARLESTON AS AGENT 3rd floor, Hai Au building,
+PANTAINER(H.K)LTD.                                                                                              39B Truong Son Street, Ward 4,
+207 EAST BAY STREET 2ND FLOOR,                                                                                 Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES Vietnam
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HONG.TRUONG@PANALPINA.COM
+PANALPINA BSC CHARLESTON AS AGENT
+PANTAINER(H.K)LTD.
+207 EAST BAY STREET 2ND FLOOR,
+CHARLESTON, SC 29401 UNITED STATES
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM
+________________________________________________________________________
+------------------------------------
+------------------------------------
+CONSIGNEE:
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+NOTIFY:
+
+------------------------------------
+------------------------------------
+PRE-CARRIAGE BY:
+3
+------------------------------------
+------------------------------------
+OCEAN VESSEL:
+PRAGUE EXPRESS                                                                              060E
+------------------------------------
+------------------------------------
+PLACE OF RECEIPT:
+HOCHIMINHICD,VIETNAM
+------------------------------------
+------------------------------------
+PORT OF LOADING:
+CAI MEP,VIETNAM
+------------------------------------
+------------------------------------
+PORT OF DISCHARGE:
+VANCOUVER
+------------------------------------
+------------------------------------
+PLACE OF DELIVERY:
+FRANKLIN
+------------------------------------
+------------------------------------
+MARKS & NOS.:
+CONT-NO 1
+SL:1
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+QUANT.PACKAGE:
+-----------
+1 40' HC
+
+
+
+
+
+
+
+
+
+
+
+======
+1
+------------------------------------
+------------------------------------
+DESCRIPTION OF GOODS:
+
+
+
+268 PIECES
+MEDIUM RADIAL TRUCK TIRE
+HTS CODE : 401120
+HBL NO:SGN505110
+SCAC CODE:PNEP
+AMS NO:PNEP19604505110
+S/C:NYCN00317 NAC
+COOPER TIRE
+ACI CODE: 8063
+NVOCC
+==============                                                        ==============
+70.000 CBM
+------------------------------------
+------------------------------------
+G.WEIGHT KG:
+
+14,076.800
+70.000
+
+
+
+
+
+
+
+
+
+
+
+14,076.800
+------------------------------------
+------------------------------------
+OCEAN WAY BILL:
+Y
+------------------------------------
+------------------------------------
+OCEAN BILL:
+N
+------------------------------------
+------------------------------------
+NUMBER OF ORIGINAL:
+0
+------------------------------------
+------------------------------------
+RATED:
+0
+------------------------------------
+------------------------------------
+UNRATED:
+1
+------------------------------------
+------------------------------------
+PAYABLE AT:
+
+------------------------------------
+------------------------------------
+DESTINATION:
+
+------------------------------------

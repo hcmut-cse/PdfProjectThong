@@ -1,0 +1,131 @@
+------------------------------------
+HeaderDATA:
+Ho Chi Minh City Office                        Ha Noi City Office                              Hai Phong City Office                          Da Nang City Office                            Nam Dinh City Office
+Email: info@beelogstics.com                    Email: han.office@beelogstics.com               Email: haiphong.office@beelogstics.com         Email: danang.office@beelogstics.com           Email: namdinh.office@beelogstics.com
+Tel: +84.8.62647272 - Fax: 84.8.62647373       Tel: +84.4.37623748 - Fax: +84.4.37623750       Tel: +84.31.3753108 - Fax: +84.31.3753109      Tel: +84.511.2241587 - Fax: +84.511.3816767    Tel: +84.350.3511109 - Fax: +84.350.3511109
+Lang Son City Office                           Phnom Penh City Office                          Yangon City Office                             Bangkok City Office                            VSIP I Office
+Email: langson.office@beelogstics.com          Email: phompenh.office@beelogstics.com          Email: yangon.office@beelogstics.com           Email: bangkok.office@beelogstics.com          Email: info@beelogstics.com
+Tel: +84.25.3889688 - Fax: +84.25.3889689      Tel: +855.23.967272 - Fax: +855.23.967373       Tel: +95.1.9010575 - Fax: +95.1.9010575        Tel: +66.2.2862700 - Fax: +66.2.2867554        Tel: +84.650.3719992 - Fax: +84.650.3719993
+------------------------------------
+------------------------------------
+From:
+NINA.VNSGN
+------------------------------------
+------------------------------------
+To:
+ONEVN HCM - Ocean Network Express
+------------------------------------
+------------------------------------
+Tel:
+
+------------------------------------
+------------------------------------
+Attn:
+
+------------------------------------
+------------------------------------
+Booking No.:
+SGNV10564600
+------------------------------------
+------------------------------------
+Date:
+Jan 28, 2019
+------------------------------------
+------------------------------------
+Shipper Name & Address:
+BEE LOGISTICS CORPORATION – HOCHIMINH OFFICE
+2ND FL, HAI AU BUILDING. 39B TRUONG SON STREET,
+WARD 4, TAN BINH DISTRICT, HO CHI MINH CITY, VIET
+NAM.
+TEL: +84.28.62647272 FAX: + 84.28.62647373
+------------------------------------
+------------------------------------
+Consignee Name & Address:
+GOSSELIN FORWARDING SERVICES NV
+MERKSEMSESTEENWEG 148
+2100 DEURNE
+BELGIUM
+
+------------------------------------
+------------------------------------
+Notify Party:
+SAME AS CONSIGNEE
+------------------------------------
+------------------------------------
+Port of Loading:
+HO CHI MINH CITY PORT, VIETNAM
+------------------------------------
+------------------------------------
+Port of Discharge:
+ANTWERP, BELGIUM
+
+------------------------------------
+------------------------------------
+Place of Delivery:
+ANTWERP, BELGIUM
+
+------------------------------------
+------------------------------------
+Vessel:
+SEASPAN THAMES
+010W
+------------------------------------
+------------------------------------
+Etd:
+Jan 31 2019
+
+------------------------------------
+------------------------------------
+Container/Seal No.:
+01X40´HC
+TCNU6856772/40HC/VN137813A
+
+------------------------------------
+------------------------------------
+Packages:
+12 PACKAGES
+
+
+------------------------------------
+------------------------------------
+Description of Goods:
+RUBBER WOOD BUTT JOINT LAMINATED
+PANELS
+ACTUAL MEASUREMENT: 40.6968 CBM
+------------------------------------
+------------------------------------
+G.W (KGS):
+27,977.000
+
+
+------------------------------------
+------------------------------------
+CBM:
+40.6968
+
+
+------------------------------------
+------------------------------------
+Remarks:
+SWB
+------------------------------------
+------------------------------------
+Payment:
+PREPAID
+------------------------------------
+------------------------------------
+Total type:
+01X40´HC
+------------------------------------
+------------------------------------
+Total Packages:
+12 PACKAGES
+------------------------------------
+------------------------------------
+Total G.W (KGS):
+27,977.000
+------------------------------------
+------------------------------------
+Total CBM:
+40.6968
+------------------------------------

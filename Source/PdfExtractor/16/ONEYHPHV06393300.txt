@@ -1,0 +1,293 @@
+------------------------------------
+Date ::
+
+------------------------------------
+------------------------------------
+To::
+Ocean Network Express
+------------------------------------
+------------------------------------
+Attn ::
+
+------------------------------------
+------------------------------------
+Shipper (complete name and address):
+TOMY (HONG KONG) LIMITED
+UNIT 901-906,TOWER 1, ENTERPRISE SQUARE, 9 SHEUNG
+YUET ROAD, KOWLOON BAY, HONG KONG
+Enterprise code ：19493597-000-11-17-6
+
+
+
+------------------------------------
+------------------------------------
+Customers contact (name / tel / email) (for draft BL dispatching):
+
+------------------------------------
+------------------------------------
+Booking No.:
+
+------------------------------------
+------------------------------------
+B/L No.:
+ONEYHPHV06393300
+------------------------------------
+------------------------------------
+ORIGINAL:
+
+
+
+------------------------------------
+------------------------------------
+SURRENDER:
+
+
+
+------------------------------------
+------------------------------------
+SEAWAY:
+
+
+X
+------------------------------------
+------------------------------------
+Consignee (complete name and address):
+
+TOMY INTERNATIONAL, INC.
+2021 9TH. STREET SE
+DYERSVILLE, IA 52040-2316
+ATTN: Scott Sampson
+TEL: 563-875-5686
+Enterprise code (EIN number): 51-0305290
+------------------------------------
+------------------------------------
+Place of issue ::
+HAIPHONG
+------------------------------------
+------------------------------------
+Other requests ::
+CY TO DOOR
+PLEASE SEND COPY OF WAYBILL TO: Ricky.Liu@tomy.com.hk
+AMS FEE SHOULD BE PREPAID
+
+------------------------------------
+------------------------------------
+Notify Party:
+E. BESLER & CO.
+115 MARTIN LANE
+ELK GROVE VILLAGE, IL 60007-1309
+ATTN: KRISTY DOST
+TEL: 847-871-6458 FAX: 847-364-0300
+
+------------------------------------
+------------------------------------
+Also Notify Party:
+1) TOMY INTERNATIONAL, INC.
+101 CENTERPOINT DRIVE ROCHELLE, IL 61068
+Attn: DAVID MEADS
+Tel: 815-562-8008 Ext:3394
+2) TOYS SHIPPERS ASSOCIATION INC.
+2001 Ford Circle Dr Ste B Milford,Ohio,United States 45150
+------------------------------------
+------------------------------------
+Feeder vessel:
+
+------------------------------------
+------------------------------------
+Place of Receipt:
+HAIPHONG, VIETNAM
+------------------------------------
+------------------------------------
+Service Contract Number:
+CHIB00285
+------------------------------------
+------------------------------------
+Mother vessel:
+YM UNISON V.080E
+------------------------------------
+------------------------------------
+Port of Loading:
+HAIPHONG, VIETNAM
+------------------------------------
+------------------------------------
+Place of Delivery:
+ROCHELLE, IL (DOOR)
+------------------------------------
+------------------------------------
+Final destination:
+
+
+
+------------------------------------
+------------------------------------
+Port of Discharge:
+TACOMA,WA
+------------------------------------
+------------------------------------
+Container/Seal No:
+
+TRLU7584644           VN204932A
+KKFU7881900           VN204877A
+SEGU4461843           VN204899A
+KKFU7760343           VN204876A
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Size/ Type:
+
+40'HQ
+40'HQ
+40'HQ
+40'HQ
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Shipping Marks:
+
+TOMY
+ITEM NO.:
+QTY.: PCS
+DESC.:
+MADE IN VIETNAM
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Payment:
+FREIGHT COLLECT
+------------------------------------
+------------------------------------
+Description of goods:
+PLASTIC TOYS / INFANT BABY PRODUCTS / PLASTIC FEEDING PRODUCTS
+HS CODE: 950300 / 960390 / 392490
+THE 3RD NOTIFY PARTY:
+SAME AS CONSIGNEE
+
+S/C : CHIB00634
+"               "
+THIS SHIPMENT CONTAINS NO ANY SOLID WOOD PACKING MATERIALS
+TRLU7584644 LOADED BY LUCKY (VIET NAM) TOYS AND GIFTS CO., LTD
+ROAD 355, HUNG DAO WARD, DUONG KINH DISTRICT, HAI PHONG CITY.
+KKFU7881900 LOADED BY GFT VIETNAM COMPANY LIMITED
+Tat Thuong Village, Cong Lac Commune,Tu Ky District,Hai Duong Province, Vietnam
+SEGU4461843 LOADED BY VIET NAM DRAGONJET CO.,LTD
+LOT D3, QUE VO INDUSTRIAL PARK, BAC NINH PROVINCE, VIET NAM
+KKFU7760343 LOADED BY COTEC PLASTIC CORPORATION CO. LTD.
+E4, E5, PHUC KHANH INDUSTRIAL PARK, THAI BINH CITY, THAI BINH, VIETNAM.
+------------------------------------
+------------------------------------
+TOTAL::
+8769         26,731.04         264.60
+------------------------------------
+------------------------------------
+Kind of Packages:
+
+8769
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+(Kgs):
+
+26,731.04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+(Cbm):
+
+264.6000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+ATTACHED SHEET:
+Date : 17-May-19                                                                                 Page 1 of 1
+RE : VESSEL : YM UNISON V.080E                       DESTINATION : ROCHELLE, IL
+1) ASSIGNED CONTAINER NO.        0625/2019              2) ASSIGNED CONTAINER NO.      0626/2019
+S/O NO.         : HPHV06393300                          S/O NO.       : HPHV06606700
+SIZE            : 40HQ                                  SIZE          : 40HQ
+CONT. NO.       : TRLU7584644                           CONT. NO.     : KKFU7881900
+SEAL NO.        : VN204932A                             SEAL NO.      : VN204877A
+TOTAL GR. WT. :     15,439.74 LBS/   7,008.51 KGS       TOTAL GR. WT. :   13,077.50 LBS/   5,936.50 KGS
+TOTAL MEAS.     :       69.46 CBM                       TOTAL MEAS.   :       59.10 CBM
+TOTAL CTNS.     :       3,216CARTONS                    TOTAL CTNS.   :       1,700CARTONS
+3) ASSIGNED CONTAINER NO.        0627/2019              4) ASSIGNED CONTAINER NO.      0628/2019
+S/O NO.         : HPHV06607800                          S/O NO.       : HPHV06608900
+SIZE            : 40HQ                                  SIZE          : 40HQ
+CONT. NO.       : SEGU4461843                           CONT. NO.     : KKFU7760343
+SEAL NO.        : VN204899A                             SEAL NO.      : VN204876A
+TOTAL GR. WT. :     18,283.99 LBS/   8,296.03 KGS       TOTAL GR. WT. :   12,075.00 LBS/   5,490.00 KGS
+TOTAL MEAS.     :       64.94 CBM                       TOTAL MEAS.   :       71.10 CBM
+TOTAL CTNS.     :         853CARTONS                    TOTAL CTNS.   :       3,000CARTONS
+GRAND TOTAL PACKAGE:          8,769 CTNS
+G. W.: 58,876.23 LBS/ 26,731.04 KGS
+MEAS.:     264.60 CBM
+------------------------------------

@@ -1,0 +1,51 @@
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)                                                                                                   SGN 505270
+CO.,LTD.AS AGENT FOR                                                                                                                 <SHIPPING INSTRUCTION
+PANTAINER(H.K)LTD.,3/F HAI AU
+BLDG,39B TRUONG SON ST,WARD 4,                                                                                                       OCEAN NETWORK EXPRESS PTE
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM                                                                                                  <BOOKING REFERENCE:
+                                                                                                                                     SGNV62134600
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA BSC CHARLESTON AS AGENT 3rd floor, Hai Au building,
+PANTAINER(H.K)LTD.                                                                                              39B Truong Son Street, Ward 4,
+ 207 EAST BAY STREET 2ND FLOOR,                                                                                 Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES Vietnam
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HONG.TRUONG@PANALPINA.COM
+PANALPINA BSC CHARLESTON AS AGENT
+PANTAINER(H.K)LTD.
+ 207 EAST BAY STREET 2ND FLOOR,
+CHARLESTON, SC 29401 UNITED STATES
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM
+________________________________________________________________________
+PRE-CARRIAGE BY : 3
+OCEAN VESSEL                                         : PRAGUE EXPRESS                                                                              060E
+PLACE OF RECEIPT : HOCHIMINHICD,VIETNAM
+PORT OF LOADING : CAI MEP,VIETNAM
+PORT OF DISCHARGE: VANCOUVER
+PLACE OF DELIVERY: FRANKLIN
+MARKS & NOS.                                                    QUANT.PACKAGE                                        DESCRIPTION OF GOODS                                                                G.WEIGHT KG
+------------------- ----- -------- ------------------------ -----------
+CONT-NO 1                                                                    1 40' HC                                                                                                                              14,076.800
+SL:1                                                                                                                                                                                                                          70.000
+                                                                                                                                 268 PIECES
+                                                                                                                     MEDIUM RADIAL TRUCK TIRE
+                                                                                                                     HTS CODE : 401120
+                                                                                                                     HBL NO:SGN505110
+                                                                                                                     SCAC CODE:PNEP
+                                                                                                                     AMS NO:PNEP19604505110
+                                                                                                                     S/C:NYCN00317 NAC
+                                                                                                                     COOPER TIRE
+                                                                                                                     ACI CODE: 8063
+                                                                                                                     NVOCC
+                                                            ======                                                   ==============                                                        ==============
+                                                                             1                                                       70.000 CBM                                                            14,076.800
+OCEAN WAY BILL                                                  Y                               OCEAN BILL                                         N
+NUMBER OF ORIGINAL                                                              0
+RATED                        0                                                  UNRATED                                              1
+PAYABLE AT                                    DESTINATION
+   All services performed by this Company are provided based on the FIATA Rules for Freight Forwarding Services as adopted by this Company (“STC’s”), which are subject to change without prior notice. The most current and controlling version
+  of the STC’s is published in the respective Country section at www.panalpina.com and is available at your local PANALPINA office. Whenever sourcing services from this Company, you agree that the version of the STC’s in effect at that time will
+       apply to any such services. Your attention is directed to those clauses of the STC’s which exclude or limit the liability of this Company and other parties, and to those which require you to indemnify this Company in certain circumstances.
+

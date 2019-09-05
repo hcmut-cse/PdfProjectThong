@@ -1,0 +1,232 @@
+[
+	{
+	    "SHIPPER": {
+	            "row": [1, 23],
+	            "column": [0, 67],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "SHIPPER",
+	                "bottom": "CONSIGNEE",
+	                "left": -1,
+	                "right": "BOOKING NO."
+	            }
+	    },
+
+	    "BOOKING NO.": {
+	            "row": [1, 2],
+	            "column": [84, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "same_left",
+	                "bottom": "CONSIGNEE",
+	                "left": "BOOKING NO.",
+	                "right": -1
+	            }
+	    },
+
+	    "CONSIGNEE": {
+	            "row": [10, 16],
+	            "column": [0, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "CONSIGNEE",
+	                "bottom": "NOTIFY PARTY",
+	                "left": -1,
+	                "right": -1
+	            }
+	    },
+
+	    "NOTIFY PARTY": {
+	            "row": [17, 18],
+	            "column": [0, 67],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "NOTIFY PARTY",
+	                "bottom": "PLACE OF RECEIPT",
+	                "left": -1,
+	                "right": "ALSO NOTIFY"
+	            }
+	    },    
+
+	    "ALSO NOTIFY": {
+	            "row": [17, 18],
+	            "column": [67, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "ALSO NOTIFY",
+	                "bottom": "PRE-CARRIAGE BY",
+	                "left": -1,
+	                "right": -1
+	            }
+	    },
+
+	    "PLACE OF RECEIPT": {
+	            "row": [19, 20],
+	            "column": [0, 31],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "PLACE OF RECEIPT",
+	                "bottom": "PORT OF DISCHARGE",
+	                "left": -1,
+	                "right": "PORT OF LOADING"
+	            }
+	    },
+
+	    "PORT OF LOADING": {
+	            "row": [19, 20],
+	            "column": [31, 67],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "PORT OF LOADING",
+	                "bottom": "PLACE OF DELIVERY",
+	                "left": "PLACE OF RECEIPT",
+	                "right": "PRE-CARRIAGE BY"
+	            }
+	    },
+
+	    "PRE-CARRIAGE BY": {
+	            "row": [19, 20],
+	            "column": [67, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "PRE-CARRIAGE BY",
+	                "bottom": "VESSEL / VOYAGE",
+	                "left": "PORT OF LOADING",
+	                "right": -1
+	            }
+	    },
+
+	    "PORT OF DISCHARGE": {
+	            "row": [21, 22],
+	            "column": [0, 31],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "PORT OF DISCHARGE",
+	                "bottom": "MARKS AND NUMBERS",
+	                "left": -1,
+	                "right": "PLACE OF DELIVERY"
+	            }
+	    },
+
+	    "PLACE OF DELIVERY": {
+	            "row": [21, 22],
+	            "column": [31, 67],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "PLACE OF DELIVERY",
+	                "bottom": "NUMBER AND KIND OF PACKAGES",
+	                "left": "PORT OF DISCHARGE",
+	                "right": "VESSEL / VOYAGE"
+	            }
+	    },
+
+	    "VESSEL / VOYAGE": {
+	            "row": [21, 22],
+	            "column": [67, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "VESSEL / VOYAGE",
+	                "bottom": "DESCRIPTION OF GOODS",
+	                "left": "PLACE OF DELIVERY",
+	                "right": -1
+	            }
+	    },
+
+	    "MARKS AND NUMBERS": {
+	            "row": [23, 30],
+	            "column": [0, 23],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "MARKS AND NUMBERS",
+	                "bottom": "REMARK",
+	                "left": -1,
+	                "right": "NUMBER AND KIND OF PACKAGES"
+	            }
+	    },            
+	    
+	    "NUMBER AND KIND OF PACKAGES": {
+	            "row": [23, 30],
+	            "column": [23, 51],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "NUMBER AND KIND OF PACKAGES",
+	                "bottom": "REMARK",
+	                "left": "MARKS AND NUMBERS",
+	                "right": "DESCRIPTION OF GOODS"
+	            }
+	    },
+
+	    "DESCRIPTION OF GOODS": {
+	            "row": [23, 30],
+	            "column": [51, 105],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "DESCRIPTION OF GOODS",
+	                "bottom": "REMARK",
+	                "left": "NUMBER AND KIND OF PACKAGES",
+	                "right": "GROSS WEIGHT"
+	            }
+	    },
+
+	    "GROSS WEIGHT": {
+	            "row": [23, 30],
+	            "column": [105, 117],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "GROSS WEIGHT",
+	                "bottom": "REMARK",
+	                "left": "DESCRIPTION OF GOODS",
+	                "right": "MEASUREMENT"
+	            }
+	    },
+
+		"MEASUREMENT": {
+	            "row": [23, 30],
+	            "column": [117, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "MEASUREMENT",
+	                "bottom": "REMARK",
+	                "left": "GROSS WEIGHT",
+	                "right": -1
+	            }
+	    },	    
+
+	    "REMARK": {
+	            "row": [31, 33],
+	            "column": [0, 72],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "REMARK",
+	                "bottom": -1,
+	                "left": -1,
+	                "right": "PAYMENT"
+	            }
+	    },
+
+	    "PAYMENT": {
+	            "row": [31, 33],
+	            "column": [72, null],
+	            "isFlex": 1,
+	            "endObject": {
+	                "top": "PAYMENT",
+	                "bottom": -1,
+	                "left": "REMARK",
+	                "right": -1
+	            }
+	    }
+	},
+	
+	{
+		"Header": {
+        	"row": [0, 0],
+        	"column": [0, null],
+        	"pages": "all"
+      	},
+      	"Footer": {
+        	"row": [-1, null],
+        	"column": [0, null],
+        	"pages": "all"
+      	}
+	}
+]

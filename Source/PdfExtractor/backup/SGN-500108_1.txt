@@ -1,0 +1,53 @@
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)                                                                                                   SGN 500108
+CO.,LTD.AS AGENT FOR                                                                                                                 <SHIPPING INSTRUCTION
+PANTAINER(H.K)LTD.,3/F HAI AU
+BLDG,39B TRUONG SON ST,WARD 4,                                                                                                       OCEAN NETWORK EXPRESS PTE
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM                                                                                                  <BOOKING REFERENCE:
+                                                                                                                                     DADV00348700
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA BSC CHARLESTON AS AGENT 3rd floor, Hai Au building,
+PANTAINER(H.K)LTD.                                                                                              39B Truong Son Street, Ward 4,
+207 EAST BAY STREET 2ND FLOOR,                                                                                  Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES Vietnam
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HONG.TRUONG@PANALPINA.COM
+PANALPINA, INC.
+5700 LAKE WRIGHT DRIVE, SUITE 408
+NORFOLK VA 23502 USA VIRGINIA
+AS AGENT FOR AND ON BEHALF OF
+PANTAINER(H.K.)LIMITED
+________________________________________________________________________
+PRE-CARRIAGE BY :
+OCEAN VESSEL                                         : IWASHIRO                                                                                    010S
+PLACE OF RECEIPT :
+PORT OF LOADING : TIEN SA PORT,DA NANG
+PORT OF DISCHARGE: NEW YORK
+PLACE OF DELIVERY: NEW YORK
+MARKS & NOS.                                                    QUANT.PACKAGE                                        DESCRIPTION OF GOODS                                                                G.WEIGHT KG
+------------------- ----- -------- ------------------------ -----------
+CONT-NO TCNU6370564                                                          1 40' HC                                                                                                                              12,077.600
+SL:VN132953A                                                                                                                                                                                                                  53.627
+                                                                                                                                 955 CARTONS
+NO MARKS                                                                                                             PARTY GOODS
+CONT-NO TEMU7876602                                                          1 40' HC                                                                                                                              12,130.900
+SL:VN132953A                                                                                                                                                                                                                  54.251
+                                                                                                                             1138 CARTONS
+NO MARKS                                                                                                             PARTY GOODS
+                                                                                                                     HBL NO:SGN500015
+                                                                                                                     SCAC CODE: PNEP
+                                                                                                                     AMS NO:PNEP19604500015
+                                                                                                                     NYCN00317 NAC AMSCAN
+                                                                                                                     40'HC SUB FOR 40'DC
+                                                                                                                     FOR BOTH CONTAINER
+                                                            ======                                                   ==============                                                        ==============
+                                                                             2                                                   107.878 CBM                                                               24,208.500
+OCEAN WAY BILL                                                  Y                               OCEAN BILL                                         N
+NUMBER OF ORIGINAL                                                              0
+RATED                        0                                                  UNRATED                                              1
+PAYABLE AT                                    DESTINATION
+   All services performed by this Company are provided based on the FIATA Rules for Freight Forwarding Services as adopted by this Company (“STC’s”), which are subject to change without prior notice. The most current and controlling version
+  of the STC’s is published in the respective Country section at www.panalpina.com and is available at your local PANALPINA office. Whenever sourcing services from this Company, you agree that the version of the STC’s in effect at that time will
+       apply to any such services. Your attention is directed to those clauses of the STC’s which exclude or limit the liability of this Company and other parties, and to those which require you to indemnify this Company in certain circumstances.
+

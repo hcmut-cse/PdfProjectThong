@@ -1,0 +1,167 @@
+------------------------------------
+SHIPPER:
+PANALPINA WORLD TRANSPORT (VIETNAM)
+CO., LTD.39B TRUONG SON ST WARD 04
+TAN BINH DISTRICT
+HOCHIMINH CITY VIETNAM AS AGENT FOR
+AND ON BEHALF OF PANTAINER(H.K.)LTD
+
+------------------------------------
+------------------------------------
+DATA1:
+SGN 505698
+<SHIPPING INSTRUCTION
+
+OCEAN NETWORK EXPRESS PTE
+<BOOKING REFERENCE:
+SGNV64353400
+------------------------------------
+------------------------------------
+DATA2:
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA CHS BSC AS AGENT FOR                                                                                  3rd floor, Hai Au building,
+AND ON BEHALF OF PANTAINER (H.K)LTD39B Truong Son Street, Ward 4,
+207 EAST BAY STREET 2ND FLOOR,                                                                                  Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES Vietnam
+EMAIL:Import.Fcl-USA@panalpina.com Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HIEN.PHAM@PANALPINA.COM
+PANALPINA, INC.
+1425 CORPORATE CENTER DRIVE SUITE
+900 SAN DIEGO CA 92154 USA
+AS AGENT FOR AND ON BEHALF OF
+PANTAINER (H.K) LTD
+________________________________________________________________________
+------------------------------------
+------------------------------------
+CONSIGNEE:
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+NOTIFY:
+
+------------------------------------
+------------------------------------
+PRE-CARRIAGE BY:
+3
+------------------------------------
+------------------------------------
+OCEAN VESSEL:
+NYK TRITON                                                                                  075E
+------------------------------------
+------------------------------------
+PLACE OF RECEIPT:
+HO CHI MINH ICD
+------------------------------------
+------------------------------------
+PORT OF LOADING:
+CAI MEP, VUNG TAU
+------------------------------------
+------------------------------------
+PORT OF DISCHARGE:
+LONG BEACH, CA, US
+------------------------------------
+------------------------------------
+PLACE OF DELIVERY:
+
+------------------------------------
+------------------------------------
+MARKS & NOS.:
+CONT-NO NYKU8529453
+SL:VN193650A
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+QUANT.PACKAGE:
+-----------
+1 40' STD
+
+
+
+
+
+
+
+
+
+
+======
+1
+------------------------------------
+------------------------------------
+DESCRIPTION OF GOODS:
+
+
+
+919 CARTONS
+SPEAKER PARTS
+HS CODE: 8518908000
+919 CARTONS =
+18 PALLETS
+SCAC: PNEP
+HBL: SGN
+AMS NO: PNEP19604
+S/C# NYCN00729 NAC FLEX
+==============                                                        ==============
+9.790 CBM
+------------------------------------
+------------------------------------
+G.WEIGHT KG:
+
+10,940.340
+9.790
+
+
+
+
+
+
+
+
+
+
+10,940.340
+------------------------------------
+------------------------------------
+OCEAN WAY BILL:
+Y
+------------------------------------
+------------------------------------
+OCEAN BILL:
+N
+------------------------------------
+------------------------------------
+NUMBER OF ORIGINAL:
+0
+------------------------------------
+------------------------------------
+RATED:
+1
+------------------------------------
+------------------------------------
+UNRATED:
+ERROR
+------------------------------------
+------------------------------------
+PAYABLE AT:
+
+------------------------------------
+------------------------------------
+DESTINATION:
+
+------------------------------------

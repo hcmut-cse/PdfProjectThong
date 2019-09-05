@@ -1,0 +1,315 @@
+[
+    {
+
+        "Shipper": {
+            "row": [3, 9],
+            "column": [0, 90],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Shipper",
+                "bottom": "Consignee",
+                "left": -1,
+                "right": "SI BOOKING NO."
+            }
+        },
+        "SI BOOKING NO.": {
+            "row": [7, 8],
+            "column": [90, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": -1,
+                "left": "SI BOOKING NO.",
+                "right": -1
+            }
+        },
+        "Consignee": {
+            "row": [10, 14],
+            "column": [0, 90],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Consignee \\( if \"Order\" state Notify Party\\)",
+                "bottom": "Notify Party \\(ONLY if not stated above: otherwiseleave blank\\) ",
+                "left": -1,
+                "right": "SI BOOKING NO."
+            }
+        },
+        "Notify Party": {
+            "row": [15, 16],
+            "column": [0, 90],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Notify Party \\(ONLY if not stated above: otherwiseleave blank\\) ",
+                "bottom": "Local vessel",
+                "left": -1,
+                "right": "Also Notify Party"
+            }
+        },
+        "Also Notify Party": {
+            "row": [15, 16],
+            "column": [90, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Also Notify Party",
+                "bottom": "Excess Value Declaration",
+                "left": "Notify Party",
+                "right": -1
+            }
+        },
+        "Local vessel": {
+            "row": [17, 18],
+            "column": [0, 45],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Local vessel",
+                "bottom": "\\(Ocean\\) Vessel",
+                "left": -1,
+                "right": "From"
+            }
+        },
+        "From": {
+            "row": [17, 18],
+            "column": [45, 90],
+            "isFlex": 1,
+            "endObject": {
+                "top": "From",
+                "bottom": "Port of loading",
+                "left": "Local vessel",
+                "right": "Excess Value Declaration"
+            }
+        },
+        "(Ocean) Vessel": {
+            "row": [19, 20],
+            "column": [0, 45],
+            "isFlex": 1,
+            "endObject": {
+                "top": "\\(Ocean\\) Vessel",
+                "bottom": "Port of discharge",
+                "left": -1,
+                "right": "Port of loading"
+            }
+        },
+        "Port of loading": {
+            "row": [19, 20],
+            "column": [45, 90],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of loading",
+                "bottom": "Final destination",
+                "left": "\\(Ocean\\) Vessel",
+                "right": "Excess Value Declaration"
+            }
+        },
+        "Port of discharge": {
+            "row": [21, 22],
+            "column": [0, 45],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of discharge",
+                "bottom": "Marks and Nos; Container No",
+                "left": -1,
+                "right": "Final destination"
+            }
+        },
+        "Final destination": {
+            "row": [21, 22],
+            "column": [45, 90],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Final destination",
+                "bottom": "Number and kind of packages",
+                "left": "Port of discharge",
+                "right": "Excess Value Declaration"
+            }
+        },
+        "Excess Value Declaration": {
+            "row": [16, 17],
+            "column": [85, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Excess Value Declaration",
+                "bottom": "Excess Value Declaration",
+                "left": "From",
+                "right": -1
+            }
+        },
+        "Marks and Nos; Container No": {
+            "row": [23, 29],
+            "column": [0, 43],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Marks and Nos; Container No",
+                "bottom": "SHIPPED ON BOARD",
+                "left": -1,
+                "right": "Number and kind of packages"
+            }
+        },
+        "Number and kind of packages": {
+            "row": [23, 29],
+            "column": [43, 132],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Number and kind of packages",
+                "bottom": "SHIPPED ON BOARD",
+                "left": "Marks and Nos; Container No",
+                "right": "Gross weight"
+            }
+        },
+        "Gross weight": {
+            "row": [23, 29],
+            "column": [132, 157],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Gross weight",
+                "bottom": "SHIPPED ON BOARD",
+                "left": "Number and kind of packages",
+                "right": "Measureme"
+            }
+        },
+        "Measureme": {
+            "row": [23, 29],
+            "column": [157, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Measureme",
+                "bottom": "SHIPPED ON BOARD",
+                "left": "Gross weight",
+                "right": -1
+            }
+        },
+        "SHIPPED ON BOARD": {
+            "row": [30, 31],
+            "column": [134, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "SHIPPED ON BOARD",
+                "bottom": -1,
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Freight and charges": {
+            "row": [34, 35],
+            "column": [0, 34],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Freight and charges",
+                "bottom": "Freight payable at",
+                "left": -1,
+                "right": "Revenue tons"
+            }
+        },
+        "Revenue tons": {
+            "row": [34, 35],
+            "column": [34, 67],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Revenue tons",
+                "bottom": "Freight payable at",
+                "left": "Freight and charges",
+                "right": "Rate"
+            }
+        },
+        "Rate": {
+            "row": [34, 35],
+            "column": [67, 85],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Rate",
+                "bottom": "Freight payable at",
+                "left": "Revenue tons",
+                "right": "Per"
+            }
+        },
+        "Per": {
+            "row": [34, 35],
+            "column": [85, 105],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Per",
+                "bottom": "Freight payable at",
+                "left": "Rate",
+                "right": "Prepaid"
+            }
+        },
+        "Prepaid": {
+            "row": [34, 35],
+            "column": [105, 138],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Prepaid",
+                "bottom": "Freight payable at",
+                "left": "Per",
+                "right": "Collect"
+            }
+        },
+        "Collect": {
+            "row": [34, 35],
+            "column": [138, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Collect",
+                "bottom": "Freight payable at",
+                "left": "Prepaid",
+                "right": -1
+            }
+        },
+        "Freight payable at": {
+            "row": [36, 37],
+            "column": [67, 113],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Freight payable at",
+                "bottom": "Number of original Bs/L",
+                "left": -1,
+                "right": "Place and date of issue"
+            }
+        },
+        "Place and date of issue": {
+            "row": [36, 37],
+            "column": [113, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Place and date of issue",
+                "bottom": "For the Master and Owners",
+                "left": "Freight payable at",
+                "right": -1
+            }
+        },
+        "Number of original Bs/L": {
+            "row": [38, 39],
+            "column": [67, 113],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Number of original Bs/L",
+                "bottom": -1,
+                "left": -1,
+                "right": "For the Master and Owners"
+            }
+        },
+        "For the Master and Owners": {
+            "row": [38, 39],
+            "column": [113, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "For the Master and Owners",
+                "bottom": -1,
+                "left": "Number of original Bs/L",
+                "right": -1
+            }
+        }
+    },
+
+    {
+        "Header": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]

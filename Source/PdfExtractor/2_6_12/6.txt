@@ -1,0 +1,131 @@
+------------------------------------
+HeaderDATA:
+Ho Chi Minh City Office                        Ha Noi City Office                              Hai Phong City Office                               Da Nang City Office                                Nam Dinh City Office
+Email: info@beelogstics.com                    Email: han.office@beelogstics.com               Email: haiphong.office@beelogstics.com              Email: danang.office@beelogstics.com               Email: namdinh.office@beelogstics.com
+Tel: +84.8.62647272 - Fax: 84.8.62647373       Tel: +84.4.37623748 - Fax: +84.4.37623750       Tel: +84.31.3753108 - Fax: +84.31.3753109           Tel: +84.511.2241587 - Fax: +84.511.3816767        Tel: +84.350.3511109 - Fax: +84.350.3511109
+Lang Son City Office                           Phnom Penh City Office                          Yangon City Office                                  Bangkok City Office                                VSIP I Office
+Email: langson.office@beelogstics.com          Email: phompenh.office@beelogstics.com          Email: yangon.office@beelogstics.com                Email: bangkok.office@beelogstics.com              Email: info@beelogstics.com
+Tel: +84.25.3889688 - Fax: +84.25.3889689      Tel: +855.23.967272 - Fax: +855.23.967373       Tel: +95.1.9010575 - Fax: +95.1.9010575             Tel: +66.2.2862700 - Fax: +66.2.2867554            Tel: +84.650.3719992 - Fax: +84.650.3719993
+------------------------------------
+------------------------------------
+From:
+ESTHER.VNHAN
+------------------------------------
+------------------------------------
+To:
+ONEVN HAN - Ocean Network Express (VN)
+------------------------------------
+------------------------------------
+Tel:
+
+------------------------------------
+------------------------------------
+Attn:
+
+------------------------------------
+------------------------------------
+Booking No.:
+HANV05664800
+------------------------------------
+------------------------------------
+Date:
+Mar 08, 2019
+------------------------------------
+------------------------------------
+Shipper Name & Address:
+BEE LOGISTICS CORPORATION - Hanoi Office
+6th Floor, Hanoi Group building, #442 Doi
+Can str., Ba Dinh Dist
+TEL: 84.24.37623748 FAX: 84.24.37623750
+
+------------------------------------
+------------------------------------
+Consignee Name & Address:
+GOYO KOUN CO., LTD
+SENBA CENTRAL BLDG, 7F 6-8, 2-CHOME
+HONMACHI CHUO-KU, OSAKA , , , JAPAN
+TEL: 06-6253-2452 FAX: 06-4963-7414
+ATTN:
+------------------------------------
+------------------------------------
+Notify Party:
+SAME AS CONSIGNEE
+------------------------------------
+------------------------------------
+Port of Loading:
+HAIPHONG PORT , VIETNAM
+------------------------------------
+------------------------------------
+Port of Discharge:
+YOKOHAMA,JAPAN
+
+------------------------------------
+------------------------------------
+Place of Delivery:
+YOKOHAMA,JAPAN
+
+------------------------------------
+------------------------------------
+Vessel:
+PEARL RIVER
+BRIDGE 100N
+------------------------------------
+------------------------------------
+Etd:
+Mar 13 2019 12:00AM
+
+------------------------------------
+------------------------------------
+Container/Seal No.:
+01X20´DC CONTAINER(S)
+S.T.C.:
+NYKU3882200/20DC/MOL082843N
+------------------------------------
+------------------------------------
+Packages:
+284 PACKAGES
+
+
+------------------------------------
+------------------------------------
+Description of Goods:
+PP CONTAINER BAG
+HS CODE: 630532
+
+------------------------------------
+------------------------------------
+G.W (KGS):
+7,616.000
+
+
+------------------------------------
+------------------------------------
+CBM:
+28.000
+
+
+------------------------------------
+------------------------------------
+Remarks:
+SEA WAY BILL
+------------------------------------
+------------------------------------
+Payment:
+PREPAID
+------------------------------------
+------------------------------------
+Total type:
+01X20´DC
+------------------------------------
+------------------------------------
+Total Packages:
+284 PACKAGES
+------------------------------------
+------------------------------------
+Total G.W (KGS):
+7,616.000
+------------------------------------
+------------------------------------
+Total CBM:
+28.000
+------------------------------------

@@ -1,0 +1,134 @@
+------------------------------------
+Shipper:
+PHUC THINH EXPORT IMPORT INVESTMENT CORPORATION (PTEXIM CORP)
+43, STREET 17, AN PHU WARD
+DISTRICT 2, HOCHIMINH CITY, VIETNAM
+------------------------------------
+------------------------------------
+Consignee:
+S.TZANIDIS S.A
+TATOIOU 81 ( EX337) , 13677 ACHARNES -GREECE
+TEL : + 302108002550
+------------------------------------
+------------------------------------
+Forwarding agent - Name and full address:
+
+
+
+
+------------------------------------
+------------------------------------
+Notify address:
+S.TZANIDIS S.A
+TATOIOU 81 ( EX337) , 13677 ACHARNES -GREECE
+------------------------------------
+------------------------------------
+Also notify:
+
+
+
+
+
+------------------------------------
+------------------------------------
+Vessel:
+MADRID EXPRESS V.002W
+------------------------------------
+------------------------------------
+Port of loading:
+S V.002W HOCHIMINH, VIETNAM
+------------------------------------
+------------------------------------
+Port of discharge:
+PIRAEUS, GREECE
+------------------------------------
+------------------------------------
+Place of delivery:
+PIRAEUS, GREECE
+------------------------------------
+------------------------------------
+Kind of Packages:
+ERROR
+------------------------------------
+------------------------------------
+Description of goods:
+
+WHOLE BLACK PEPPER 500 G/L FAQ
+NW: 9.00 MTS, GW: 9.036 MTS, 360 BAGS
+WHOLE BLACK PEPPER 520 G/L SPIRAL CLEANED
+NW: 4.00 MTS, GW: 4.016 MTS, 160 BAGS
+WHITE PEPPER 630 DW SPIRAL CLEANED
+NW: 1.00MTS, GW: 1.004 MTS, 40 BAGS
+TOTAL :
+NET WEIGHT                     14.00MTS
+GROSS WEIGHT                   14.056 MTS        560 BAGS
+SHIPPED ON BOARD ON MADRID EXPRESS V.002W
+AT HOCHIMINH, VIETNAM
+03 MAY, 2019
+------------------------------------
+------------------------------------
+Weight:
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Measurement:
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+CONTAINER/SEAL NO:
+763800/ VN322698A
+------------------------------------
+------------------------------------
+Marks and Numbers:
+ON BAGS
+------------------------------------
+------------------------------------
+B/L to be released at:
+HOCHIMINH
+------------------------------------
+------------------------------------
+Received on account of freight:
+
+------------------------------------
+------------------------------------
+Freight payable at:
+===================
+------------------------------------
+------------------------------------
+Place and date of issued:
+HOCHIMINH CITY, VIETNAM                                      03 MAY, 2019
+------------------------------------
+------------------------------------
+Number of original Bs/L:
+(3) Three Original
+
+------------------------------------
+------------------------------------
+Signature:
+
+AS AGENT FOR THE OCEAN CARRIER
+------------------------------------

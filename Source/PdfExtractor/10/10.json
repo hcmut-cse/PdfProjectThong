@@ -1,0 +1,260 @@
+[
+	{
+
+        "SHIPPER": {
+            "row": [1, 6],
+            "column": [0, 133],
+            "isFlex": 1,
+            "endObject": {
+                "top": "SHIPPER",
+                "bottom": "CONSIGNEE",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "CONSIGNEE": {
+            "row": [8, 13],
+            "column": [0, 34],
+            "isFlex": 1,
+            "endObject": {
+                "top": "CONSIGNEE",
+                "bottom": "NOTIFY",
+                "left": -1,
+                "right": "area_DATA2"
+            }
+        },
+        "NOTIFY": {
+            "row": [15, 20],
+            "column": [0, 34],
+            "isFlex": 1,
+            "endObject": {
+                "top": "NOTIFY",
+                "bottom": "PRE-CARRIAGE BY",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "DATA1": {
+            "row": [1, 7],
+            "column": [133, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "SHIPPER",
+                "bottom": "CONSIGNEE",
+                "left": "SHIPPER",
+                "right": -1
+            }
+        },
+		"DATA2": {
+            "row": [7, 15],
+            "column": [34, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "area_DATA1",
+                "bottom": "PRE-CARRIAGE BY",
+                "left": "CONSIGNEE",
+                "right": -1
+            }
+        },
+        "PRE-CARRIAGE BY": {
+            "row": [21, 22],
+            "column": [18, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "OCEAN VESSEL",
+                "left": "PRE-CARRIAGE BY",
+                "right": -1
+            }
+        },
+        "OCEAN VESSEL": {
+            "row": [22, 23],
+            "column": [55, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PLACE OF RECEIPT",
+                "left": "OCEAN VESSEL",
+                "right": -1
+            }
+        },
+        "PLACE OF RECEIPT": {
+            "row": [23, 24],
+            "column": [18, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PORT OF LOADING",
+                "left": "PLACE OF RECEIPT",
+                "right": -1
+            }
+        },
+        "PORT OF LOADING": {
+            "row": [24, 25],
+            "column": [18, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PORT OF DISCHARGE",
+                "left": "PORT OF LOADING",
+                "right": -1
+            }
+        },
+        "PORT OF DISCHARGE": {
+            "row": [25, 26],
+            "column": [19, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PLACE OF DELIVERY",
+                "left": "PORT OF DISCHARGE",
+                "right": -1
+            }
+        },
+        "PLACE OF DELIVERY": {
+            "row": [26, 27],
+            "column": [19, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "MARKS & NOS.",
+                "left": "PLACE OF DELIVERY",
+                "right": -1
+            }
+        },
+        "MARKS & NOS.": {
+            "row": [29, 45],
+            "column": [0, 60],
+            "isFlex": 1,
+            "endObject": {
+                "top": "MAKRS & NOS.",
+                "bottom": "OCEAN WAY BILL",
+                "left": -1,
+                "right": "QUANT.PACKAGE"
+            }
+        },
+        "QUANT.PACKAGE": {
+            "row": [29, 45],
+            "column": [60, 116],
+            "isFlex": 1,
+            "endObject": {
+                "top": "QUANT.PACKAGE",
+                "bottom": "OCEAN BILL",
+                "left": "MAKRS & NOS.",
+                "right": "DESCRIPTION OF GOODS"
+            }
+        },
+        "DESCRIPTION OF GOODS": {
+            "row": [29, 45],
+            "column": [116, 187],
+            "isFlex": 1,
+            "endObject": {
+                "top": "DESCRIPTION OF GOODS",
+                "bottom": "OCEAN BILL",
+                "left": "QUANT.PACKAGE",
+                "right": "G.WEIGHT KG"
+            }
+        },
+        "G.WEIGHT KG": {
+            "row": [29, 45],
+            "column": [187, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "G.WEIGHT KG",
+                "bottom": "OCEAN BILL",
+                "left": "DESCRIPTION OF GOODS",
+                "right": -1
+            }
+        },
+        "OCEAN WAY BILL": {
+            "row": [45, 46],
+            "column": [14, 96],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "NUMBER OF ORIGINAL",
+                "left": "OCEAN WAY BILL",
+                "right": "OCEAN BILL"
+            }
+        },
+        "OCEAN BILL": {
+            "row": [45, 46],
+            "column": [106, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "NUMBER OF ORIGINAL",
+                "left": "OCEAN BILL",
+                "right": -1
+            }
+        },
+        "NUMBER OF ORIGINAL": {
+            "row": [46, 47],
+            "column": [18, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "RATED",
+                "left": "NUMBER OF ORIGINAL",
+                "right": -1
+            }
+        },
+        "RATED": {
+            "row": [47, 48],
+            "column": [5, 80],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PAYABLE AT",
+                "left": "RATED",
+                "right": "UNRATED"
+            }
+        },
+        "UNRATED": {
+            "row": [47, 48],
+            "column": [87, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PAYABLE AT",
+                "left": "UNRATED",
+                "right": -1
+            }
+        },
+        "PAYABLE AT": {
+            "row": [48, 49],
+            "column": [10, 46],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": -1,
+                "left": "PAYABLE AT",
+                "right": "DESTINATION"
+            }
+        },
+        "DESTINATION": {
+            "row": [48, 49],
+            "column": [57, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": -1,
+                "left": "DESTINATION",
+                "right": -1
+            }
+        }
+    },
+
+    {
+		"Header": {
+        	"row": [0, 0],
+        	"column": [0, null],
+        	"pages": "all"
+      	},
+      	"Footer": {
+        	"row": [-2, null],
+        	"column": [0, null],
+        	"pages": "all"
+      	}
+	}
+]

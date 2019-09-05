@@ -1,0 +1,73 @@
+-----------------------
+To:
+OCEAN NETWORK EXPRESS
+-----------------------
+Remark:
+
+-----------------------
+SHIPPER:
+AITC LOGISTICS (VIET NAM) CO., LTD.
+08TH FLOOR, PHUOC THANH TOWER,
+199 DIEN BIEN PHU STR,
+WARD 15, BINH THANH DIST, HCMC
+TEL84-8-38408225 FAX84-8-38408228
+CONSIGNEE
+AIT CORPORATION
+SAKAISUJI-HONMACHI-CENTER BUILDING
+15TH FLOOR,2-1-6 HONMACHI,CHUO-WARD
+OSAKA-CITY,OSAKA-PREF,JAPAN
+541-0053
+TEL81-06-6260-3471 FAX81-06-6260-3491
+
+-----------------------
+DATE:
+2019/03/06
+-----------------------
+S/O NO:
+SGNV25243600
+-----------------------
+CONSIGNEE:
+AIT CORPORATION
+SAKAISUJI-HONMACHI-CENTER BUILDING
+15TH FLOOR,2-1-6 HONMACHI,CHUO-WARD
+OSAKA-CITY,OSAKA-PREF,JAPAN
+541-0053
+TEL81-06-6260-3471 FAX81-06-6260-3491
+
+-----------------------
+NOTIFY:
+SAME AS CONSIGNEE
+
+-----------------------
+ALSO NOTIFY:
+
+-----------------------
+VESSEL / VOYAGE:
+ATHENS BRIDGE/086N
+-----------------------
+PLACE OF RECEIPT:
+HO CHI MINH CITY, VIETNAM
+-----------------------
+JOB No.:
+SEA1903-00247
+-----------------------
+PORT OF LOADING:
+CAI MEP-VIET NAM
+-----------------------
+SOB DATE:
+2019/03/08
+-----------------------
+PORT OF DISCHARGE:
+TOKYO,JAPAN
+-----------------------
+ETD DATE:
+2019/03/08
+-----------------------
+PLACE OF DELIVERY:
+TOKYO,JAPAN
+-----------------------
+FINAL DESTINATION:
+TOKYO,JAPAN
+-----------------------
+MOVEMENT:
+CY/CY

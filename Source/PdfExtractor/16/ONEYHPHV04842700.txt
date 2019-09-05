@@ -1,0 +1,229 @@
+------------------------------------
+Date ::
+
+------------------------------------
+------------------------------------
+To::
+Ocean Network Express
+------------------------------------
+------------------------------------
+Attn ::
+
+------------------------------------
+------------------------------------
+Shipper (complete name and address):
+TOMY (HONG KONG) LIMITED
+UNIT 901-906,TOWER 1, ENTERPRISE SQUARE, 9 SHEUNG
+YUET ROAD, KOWLOON BAY, HONG KONG
+Enterprise code ：19493597-000-11-17-6
+
+
+
+------------------------------------
+------------------------------------
+Customers contact (name / tel / email) (for draft BL dispatching):
+
+------------------------------------
+------------------------------------
+Booking No.:
+
+------------------------------------
+------------------------------------
+B/L No.:
+ONEYHPHV04842700
+------------------------------------
+------------------------------------
+ORIGINAL:
+
+
+
+------------------------------------
+------------------------------------
+SURRENDER:
+
+
+
+------------------------------------
+------------------------------------
+SEAWAY:
+
+
+X
+------------------------------------
+------------------------------------
+Consignee (complete name and address):
+
+TOMY INTERNATIONAL, INC.
+2021 9TH. STREET SE
+DYERSVILLE, IA 52040-2316
+ATTN: Scott Sampson
+TEL: 563-875-5686
+Enterprise code (EIN number): 51-0305290
+------------------------------------
+------------------------------------
+Place of issue ::
+HAIPHONG
+------------------------------------
+------------------------------------
+Other requests ::
+CY TO DOOR
+PLEASE SEND COPY OF WAYBILL TO: Ricky.Liu@tomy.com.hk
+AMS FEE SHOULD BE PREPAID
+
+------------------------------------
+------------------------------------
+Notify Party:
+E. BESLER & CO.
+115 MARTIN LANE
+ELK GROVE VILLAGE, IL 60007-1309
+ATTN: KRISTY DOST
+TEL: 847-871-6458 FAX: 847-364-0300
+
+------------------------------------
+------------------------------------
+Also Notify Party:
+1) TOMY INTERNATIONAL, INC.
+101 CENTERPOINT DRIVE ROCHELLE, IL 61068
+Attn: DAVID MEADS
+Tel: 815-562-8008 Ext:3394
+2) TOYS SHIPPERS ASSOCIATION INC.
+2001 Ford Circle Dr Ste B Milford,Ohio,United States 45150
+------------------------------------
+------------------------------------
+Feeder vessel:
+
+------------------------------------
+------------------------------------
+Place of Receipt:
+HAIPHONG, VIETNAM
+------------------------------------
+------------------------------------
+Service Contract Number:
+CHIB00285
+------------------------------------
+------------------------------------
+Mother vessel:
+CONTI CRYSTAL V.109E
+------------------------------------
+------------------------------------
+Port of Loading:
+HAIPHONG, VIETNAM
+------------------------------------
+------------------------------------
+Place of Delivery:
+ROCHELLE, IL (DOOR)
+------------------------------------
+------------------------------------
+Final destination:
+
+
+
+------------------------------------
+------------------------------------
+Port of Discharge:
+TACOMA,WA
+------------------------------------
+------------------------------------
+Container/Seal No:
+
+DFSU6323560           MOL074372N
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Size/ Type:
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Shipping Marks:
+
+TOMY
+ITEM NO.:
+QTY.: PCS
+DESC.:
+MADE IN VIETNAM
+
+
+
+------------------------------------
+------------------------------------
+Payment:
+FREIGHT COLLECT
+------------------------------------
+------------------------------------
+Description of goods:
+PLASTIC TOYS / PLASTIC FEEDING PRODUCTS
+HS CODE: 950300 / 392410
+THE 3RD NOTIFY PARTY:
+SAME AS CONSIGNEE
+
+S/C : CHIB00285
+"               "
+THIS SHIPMENT CONTAINS NO ANY SOLID WOOD PACKING MATERIALS
+------------------------------------
+------------------------------------
+TOTAL::
+2211         5,192.34           64.70
+------------------------------------
+------------------------------------
+Kind of Packages:
+
+2211
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+(Kgs):
+
+5,192.34
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+(Cbm):
+
+64.7000
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+ATTACHED SHEET:
+Date : 22-Apr-19                                                                 Page 1 of 1
+RE : VESSEL : CONTI CRYSTAL V.109E                    DESTINATION : ROCHELLE, IL
+1) ASSIGNED CONTAINER NO.        0449/2019
+S/O NO.         : HPHV04842700
+SIZE            : 40HQ
+CONT. NO.       : DFSU6323560
+SEAL NO.        : MOL074372N
+TOTAL GR. WT. :     11,446.26 LBS/    5,192.34 KGS
+TOTAL MEAS.     :       64.70 CBM
+TOTAL CTNS.     :       2,211CARTONS
+GRAND TOTAL PACKAGE:          2,211 CTNS
+G. W.: 11,446.26 LBS/    5,192.34 KGS
+MEAS.:      64.70 CBM
+------------------------------------

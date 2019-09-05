@@ -1,0 +1,225 @@
+[
+    {
+        "From": {
+            "row": [1, 2],
+            "column": [5, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Sent:",
+                "left": "From:",
+                "right": -1
+            }
+        },
+        "Sent": {
+            "row": [2, 3],
+            "column": [5, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "To:",
+                "left": "Sent:",
+                "right": -1
+            }
+        },
+        "To": {
+            "row": [3, 4],
+            "column": [3, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Cc:",
+                "left": "To:",
+                "right": -1
+            }
+        },
+        "Cc": {
+            "row": [4, 5],
+            "column": [3, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Subject:",
+                "left": "Cc:",
+                "right": -1
+            }
+        },
+        "Subject": {
+            "row": [5, 6],
+            "column": [8, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Dear",
+                "left": "Subject:",
+                "right": -1
+            }
+        },
+        "Shipper": {
+            "row": [8, 9],
+            "column": [8, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "ADD:",
+                "left": "Shipper:",
+                "right": -1
+            }
+        },
+        "ADD": {
+            "row": [9, 10],
+            "column": [4, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Consignee:",
+                "left": "ADD:",
+                "right": -1
+            }
+        },
+        "Consignee": {
+            "row": [10, 11],
+            "column": [10, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Add:",
+                "left": "Consignee:",
+                "right": -1
+            }
+        },
+        "Add": {
+            "row": [11, 12],
+            "column": [4, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Phone:",
+                "left": "Add:",
+                "right": -1
+            }
+        },
+        "Phone": {
+            "row": [12, 13],
+            "column": [6, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Email:",
+                "left": "Phone:",
+                "right": -1
+            }
+        },
+        "Email": {
+            "row": [13, 14],
+            "column": [6, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Notify Party:",
+                "left": "Email:",
+                "right": -1
+            }
+        },
+        "Notify Party": {
+            "row": [14, 15],
+            "column": [13, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Add:",
+                "left": "Notify Party:",
+                "right": -1
+            }
+        },
+        "OCEAN VESSEL": {
+            "row": [15, 16],
+            "column": [13, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PLACE OF RECEIPT",
+                "left": "OCEAN VESSEL:",
+                "right": -1
+            }
+        },
+        "PLACE OF RECEIPT": {
+            "row": [16, 17],
+            "column": [18, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PORT OF LOADING:",
+                "left": "PLACE OF RECEIPT :",
+                "right": -1
+            }
+        },
+        "PORT OF LOADING": {
+            "row": [17, 18],
+            "column": [17, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PORT OF DISCHARGE",
+                "left": "PORT OF LOADING:",
+                "right": -1
+            }
+        },
+        "PORT OF DISCHARGE": {
+            "row": [18, 19],
+            "column": [19, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PLACE OF DELIVERY:",
+                "left": "PORT OF DISCHARGE :",
+                "right": -1
+            }
+        },
+        "PLACE OF DELIVERY": {
+            "row": [19, 20],
+            "column": [18, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "DESCRIPTION OF GOODS:",
+                "left": "PLACE OF DELIVERY:",
+                "right": -1
+            }
+        },
+        "DESCRIPTION OF GOODS": {
+            "row": [20, null],
+            "column": [0, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "DESCRIPTION OF GOODS:",
+                "bottom": -1,
+                "left": -1,
+                "right": -1
+            },
+            "hasSubfield": 1,
+            "subfields": {
+            	"BL type": "The type of BL\\: [A-Z]*\\n",
+            	"HS Code": "HS CODE\\: [0-9]*",
+            	"GW": "GW:[0-9\\s\\,]* KGS",
+            	"CBM": "CBM:[0-9\\s]*",
+            	"Quantity": "[0-9]+[PACKAGES]+",
+            	"CONT/SEAL NO": "1\\) .*\\n",
+            	"Tax code number of consignee": "Tax code number of consignee: [0-9\\s]*\\n",
+            	"Leftover": 10
+            }
+        }
+    },
+    {
+      "Header": {
+        "row": [0, 0],
+        "column": [0, 0],
+        "pages": "all"
+      },
+      "Footer": {
+        "row": [0, 0],
+        "column": [0, 0],
+        "pages": "all"
+      }
+    }
+]

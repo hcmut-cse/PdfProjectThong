@@ -1,0 +1,315 @@
+[
+	{
+		"SHIPPER / EXPORT": {
+			"row": [2,6],
+			"column": [0, 108],
+			"isFlex": 1,
+			"endObject": {
+				"top": "SHIPPER / EXPORT",
+				"bottom": "CONSIGNEE",
+				"left": -1,
+				"right": "B/L NO"
+			}
+		},
+		"B/L NO": {
+			"row": [2,3],
+			"column": [108, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "B/L NO",
+				"bottom": "EXPORT REFERENCES",
+				"left": "SHIPPER / EXPORT",
+				"right": -1
+			}
+		},
+		"EXPORT REFERENCES": {
+			"row": [4,5],
+			"column": [108, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "EXPORT REFERENCES",
+				"bottom": "FREIGHT PAYABLE AT",
+				"left": "SHIPPER / EXPORT",
+				"right": -1
+			}
+		},
+		"CONSIGNEE": {
+			"row": [6, 13],
+			"column": [0, 107],
+			"isFlex": 1,
+			"endObject": {
+				"top": "CONSIGNEE",
+				"bottom": "NOTIFY PARTY",
+				"left": -1,
+				"right": "FREIGHT PAYABLE AT"
+			}
+		},
+		"FREIGHT PAYABLE AT": {
+			"row": [6,7],
+			"column": [107, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "FREIGHT PAYABLE AT",
+				"bottom": "TYE OF SERVICE",
+				"left": "CONSIGNEE",
+				"right": -1
+			}
+		},
+		"TYE OF SERVICE": {
+			"row": [8,9],
+			"column": [107, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "TYE OF SERVICE",
+				"bottom": "CONTAINER NO",
+				"left": -1,
+				"right": -1
+			}
+		},
+		"CONTAINER NO": {
+			"row": [11, 13],
+			"column": [107, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "same_left",
+				"bottom": "DELIVERY AGENT",
+				"left": "CONTAINER NO",
+				"right": -1
+			}
+		},
+		"NOTIFY PARTY": {
+			"row": [14, 15],
+			"column": [0, 105],
+			"isFlex": 1,
+			"endObject": {
+				"top": "NOTIFY PARTY",
+				"bottom": "PRE-CARRIAGE BY",
+				"left": -1,
+				"right": "ALSO NOTIFY"
+			}
+		},
+		"ALSO NOTIFY": {
+			"row": [14, 17],
+			"column": [105, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "ALSO NOTIFY",
+				"bottom": "NUMBER ORIGINAL BILL OF LADING ISSUED",
+				"left": "NOTIFY PARTY",
+				"right": -1
+			}
+		},
+		"PRE-CARRIAGE BY": {
+			"row": [16,17],
+			"column": [0, 51],
+			"isFlex": 1,
+			"endObject": {
+				"top": "PRE-CARRIAGE BY",
+				"bottom": "OCEAN VESSEL / VOYAGE",
+				"left": -1,
+				"right": "PLACE OF RECEIPT"
+			}
+		},
+		"PLACE OF RECEIPT": {
+			"row": [16, 17],
+			"column": [51,108],
+			"isFlex": 1,
+			"endObject": {
+				"top": "PLACE OF RECEIPT",
+				"bottom": "PORT OF LOADING",
+				"left": "PRE-CARRIAGE BY",
+				"right": "DELIVERY AGENT"
+			}
+		},
+		"OCEAN VESSEL / VOYAGE": {
+			"row": [18, 19],
+			"column": [0, 51],
+			"isFlex": 1,
+			"endObject": {
+				"top": "OCEAN VESSEL / VOYAGE",
+				"bottom": "PORT OF DISCHARGE",
+				"left": -1,
+				"right": "PORT OF LOADING"
+			}
+		},
+		"PORT OF LOADING": {
+		  "row": [18,19],
+		  "column": [51, 108],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "PORT OF LOADING",
+		    "bottom": "PLACE OF DELIVERY",
+		    "left": "OCEAN VESSEL / VOYAGE",
+		    "right": "DELIVERY AGENT"
+		  }
+		},
+		"NUMBER ORIGINAL BILL OF LADING ISSUED": {
+		  "row": [18,22],
+		  "column": [108, null],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "NUMBER ORIGINAL BILL OF LADING ISSUED",
+		    "bottom": "GROSS WEIGHT",
+		    "left": "PORT OF LOADING",
+		    "right": -1
+		  }
+		},
+		"PORT OF DISCHARGE": {
+		  "row": [20,22],
+		  "column": [0, 51],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "PORT OF DISCHARGE",
+		    "bottom": "NO.OF CONT",
+		    "left": -1,
+		    "right": "NUMBER ORIGINAL BILL OF LADING ISSUED"
+		  }
+		},
+		"PLACE OF DELIVERY": {
+		  "row": [20,22],
+		  "column": [51,108],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "PLACE OF DELIVERY",
+		    "bottom": "NO.OF CONT",
+		    "left": "PORT OF DISCHARGE",
+		    "right": "NUMBER ORIGINAL BILL OF LADING ISSUED"
+		  }
+		},
+		"MARKS AND NUMBERS": {
+		  "row": [24,40],
+		  "column": [0,55],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "MARKS AND NUMBERS",
+		    "bottom": "SHIPPED ONBOARD THE VESSEL",
+		    "left": -1,
+		    "right": "OR ORTHER PKGS"
+		  }
+		},
+		"NO.OF CONT": {
+		  "row": [24,40],
+		  "column": [55,83],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "OR ORTHER PKGS",
+		    "bottom": "SHIPPED ONBOARD THE VESSEL",
+		    "left": "MARKS AND NUMBERS",
+		    "right": "DESCRIPTION OF PACKGES AND GOODS"
+		  }
+		},
+		"DESCRIPTION OF PACKGES AND GOODS": {
+		  "row": [24,40],
+		  "column": [83,152],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "DESCRIPTION OF PACKGES AND GOODS",
+		    "bottom": "SHIPPED ONBOARD THE VESSEL",
+		    "left": "NO.OF CONT",
+		    "right": "GROSS WEIGHT"
+		  }
+		},
+		"GROSS WEIGHT": {
+		  "row": [24,40],
+		  "column": [152,174],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "GROSS WEIGHT",
+		    "bottom": "SHIPPED ONBOARD THE VESSEL",
+		    "left": "DESCRIPTION OF PACKGES AND GOODS",
+		    "right": "MEASUREMENT"
+		  }
+		},
+		"MEASUREMENT": {
+		  "row": [24,40],
+		  "column": [174, null],
+		  "isFlex": 1,
+		  "endObject": {
+		    "top": "MEASUREMENT",
+		    "bottom": "SHIPPED ONBOARD THE VESSEL",
+		    "left": "GROSS WEIGHT",
+		    "right": -1
+		  }
+		},
+		"SIGNED AT": {
+			"row": [41,42],
+			"column": [9, 59],
+			"isFlex": 1,
+			"endObject": {
+				"top": "SHIPPED ONBOARD THE VESSEL",
+				"bottom": "SIGNED AT",
+				"left": -1,
+				"right": "DATE"
+			}
+		},
+		"DATE": {
+			"row": [41,42],
+			"column": [59, 88],
+			"isFlex": 1,
+			"endObject": {
+				"top": "SHIPPED ONBOARD THE VESSEL",
+				"bottom": "DATE",
+				"left": "SIGNED AT",
+				"right": "SHIPPED ONBOARD THE VESSEL"
+			}
+		},
+		"SHIPPED ONBOARD THE VESSEL": {
+			"row": [41,42],
+			"column": [88,null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "SHIPPED ONBOARD THE VESSEL",
+				"bottom": "DATE",
+				"left": "DATE",
+				"right": -1
+			}
+		},
+
+		"FREIGHT AND CHARES": {
+			"row": [46,null],
+			"column": [2,47],
+			"isFlex": 1,
+			"endObject": {
+				"top": "REVENUE TONS RATE PER",
+				"bottom": -1,
+				"left": -1,
+				"right": "PREPAID"
+			}
+		},
+
+		"PREPAID": {
+			"row": [46,null],
+			"column": [48,67],
+			"isFlex": 1,
+			"endObject": {
+				"top": "PREPAID",
+				"bottom": -1,
+				"left": "FREIGHT AND CHARES",
+				"right": "COLLECT"
+			}
+		},
+		"COLLECT": {
+			"row": [46,null],
+			"column": [67,94],
+			"isFlex": 1,
+			"endObject": {
+				"top": "COLLECT",
+				"bottom": -1,
+				"left": "PREPAID",
+				"right": "NEWAREA"
+			}
+		}
+	},
+	{
+		"Header": {
+			"row": [0, 0],
+			"column": [0, 0],
+			"pages": "all"
+		},
+		"Footer": {
+			"row": [0, 0],
+			"column": [0, 0],
+			"pages": "all"
+		}
+	}
+]

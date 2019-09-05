@@ -1,0 +1,199 @@
+------------------------------------
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)
+CO.,LTD.AS AGENT FOR
+PANTAINER(H.K)LTD.,3/F HAI AU
+BLDG,39B TRUONG SON ST,WARD 4,
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM
+
+------------------------------------
+------------------------------------
+DATA1:
+SGN 500108
+<SHIPPING INSTRUCTION
+
+OCEAN NETWORK EXPRESS PTE
+<BOOKING REFERENCE:
+DADV00348700
+------------------------------------
+------------------------------------
+DATA2:
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA BSC CHARLESTON AS AGENT                                                                               3rd floor, Hai Au building,
+PANTAINER(H.K)LTD.                                                                                              39B Truong Son Street, Ward 4,
+207 EAST BAY STREET 2ND FLOOR,                                                                                 Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES                                                                              Vietnam
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM                                                                              Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HONG.TRUONG@PANALPINA.COM
+PANTAINER(H.K.)LIMITED
+________________________________________________________________________
+------------------------------------
+------------------------------------
+CONSIGNEE:
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+NOTIFY:
+ERROR
+------------------------------------
+------------------------------------
+PRE-CARRIAGE BY:
+
+------------------------------------
+------------------------------------
+OCEAN VESSEL:
+IWASHIRO                                                                                    010S
+------------------------------------
+------------------------------------
+PLACE OF RECEIPT:
+
+------------------------------------
+------------------------------------
+PORT OF LOADING:
+TIEN SA PORT,DA NANG
+------------------------------------
+------------------------------------
+PORT OF DISCHARGE:
+NEW YORK
+------------------------------------
+------------------------------------
+PLACE OF DELIVERY:
+NEW YORK
+------------------------------------
+------------------------------------
+MARKS & NOS.:
+CONT-NO 1
+SL:1
+
+NO MARKS
+
+
+
+
+CONT-NO 2
+SL:2
+
+NO MARKS
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+QUANT.PACKAGE:
+-----------
+1 40' STD
+
+
+
+
+
+
+
+1 40' STD
+
+
+
+
+
+
+
+
+
+
+
+
+** ADD.INFORMATION
+------------------------------------
+------------------------------------
+DESCRIPTION OF GOODS:
+
+
+
+956 CARTONS
+PARTY GOODS
+PRODUCT MADE IN VIETNAM
+THIS SHIPMENT CONTAINS
+NO SOLID WOOD PACKING
+MATERIAL
+
+
+1138 CARTONS
+PARTY GOODS
+PRODUCT MADE IN VIETNAM
+THIS SHIPMENT CONTAINS
+NO SOLID WOOD PACKING
+MATERIAL
+2ND NOTIFY
+AMSCAN INC
+80 GRASSLANDS ROAD
+ELMSFORD,
+NY, 10523 USA
+SEE NEXT PAGE **
+------------------------------------
+------------------------------------
+G.WEIGHT KG:
+
+12,077.600
+53.627
+
+
+
+
+
+
+12,130.900
+54.251
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+OCEAN WAY BILL:
+Y
+------------------------------------
+------------------------------------
+OCEAN BILL:
+N
+------------------------------------
+------------------------------------
+NUMBER OF ORIGINAL:
+0
+------------------------------------
+------------------------------------
+RATED:
+0
+------------------------------------
+------------------------------------
+UNRATED:
+1
+------------------------------------
+------------------------------------
+PAYABLE AT:
+
+------------------------------------
+------------------------------------
+DESTINATION:
+
+------------------------------------

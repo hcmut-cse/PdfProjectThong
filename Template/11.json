@@ -1,0 +1,195 @@
+[
+	{
+		"Shipper": {
+				"row": [1, 2],
+				"column": [5, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Shipper",
+					"bottom": "Consignee",
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"Consignee": {
+				"row": [2, 3],
+				"column": [5, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Consignee",
+					"bottom": "Notify address",
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"Forwarding agent - Name and full address": {
+				"row": [15, 20],
+				"column": [0, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Forwarding agent - Name and full address",
+					"bottom": "Also notify",
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"Notify address": {
+				"row": [3, 4],
+				"column": [4, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Notify address",
+					"bottom": "Vessel",
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"Also notify": {
+				"row": [15, 20],
+				"column": [0, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Also notify",
+					"bottom": -1,
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"Vessel": {
+				"row": [4, 6],
+				"column": [4, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Vessel",
+					"bottom": "Port of discharge",
+					"left": -1,
+					"right": "Port of loading"
+				}
+		},
+
+		"Port of loading": {
+				"row": [7, 8],
+				"column": [8, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Port of loading",
+					"bottom": "Place of delivery",
+					"left": -1,
+					"right": "Also notify"
+				}
+		},    
+
+		"Port of discharge": {
+				"row": [10, 14],
+				"column": [0, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "Port of discharge",
+					"bottom": -1,
+					"left": -1,
+					"right": "Place of delivery"
+				}
+		},
+
+		"Place of delivery": {
+				"row": [10, 14],
+				"column": [0, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "VessePlace of deliveryl",
+					"bottom": -1,
+					"left": -1,
+					"right": "Also notify"
+				}
+		},    
+
+		"Weight": {
+				"row": [26, 27],
+				"column": [6, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "B/L to be released at",
+					"bottom": -1,
+					"left": "B/L to be released at",
+					"right": -1
+				}
+		},
+
+		"Measurement": {
+				"row": [26, 27],
+				"column": [6, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "B/L to be released at",
+					"bottom": -1,
+					"left": "B/L to be released at",
+					"right": -1
+				}
+		},  
+
+		"CONTAINER/SEAL NO": {
+				"row": [21, 26],
+				"column": [0, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "CONTAINER/SEAL NO",
+					"bottom": "MARKINGS",
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"MARKINGS": {
+				"row": [15, 20],
+				"column": [0, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "MARKINGS",
+					"bottom": -1,
+					"left": -1,
+					"right": -1
+				}
+		},
+
+		"B/L to be released at": {
+				"row": [26, 27],
+				"column": [6, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "B/L to be released at",
+					"bottom": -1,
+					"left": "B/L to be released at",
+					"right": -1
+				}
+		},
+
+		"Signature": {
+				"row": [26, 27],
+				"column": [6, null],
+				"isFlex": 1,
+				"endObject": {
+					"top": "SHIPPED",
+					"bottom": -1,
+					"left": "SHIPPED",
+					"right": -1
+				}
+		}          
+	},
+	{
+        "Header": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]

@@ -1,0 +1,207 @@
+------------------------------------
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)
+CO.,LTD.AS AGENT FOR AND ON BEHALF
+OF PANTAINER(H.K)LTD.,3/F SEAGULL
+BLDG,39B TRUONG SON ST,WARD 4,
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM
+
+------------------------------------
+------------------------------------
+DATA1:
+SGN 505791
+<SHIPPING INSTRUCTION
+
+OCEAN NETWORK EXPRESS PTE
+<BOOKING REFERENCE:
+SGNV67652900
+------------------------------------
+------------------------------------
+DATA2:
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA WORLD TRANSPORT PTY. LTD.3rd floor, Hai Au building,
+1 MACE WAY                                                                                                      39B Truong Son Street, Ward 4,
+MELBOURNE AIRPORT 3045 AUSTRALIA                                                                                Tan Binh District Ho Chi Minh City,
+AS AGENT FOR AND ON BEHALF                                                                                      Vietnam
+OF PANTAINER (H.K.) LIMITED                                                                                     Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         MY.TRAN@PANALPINA.COM
+PANALPINA WORLD TRANSPORT PTY. LTD.
+1 MACE WAY
+MELBOURNE AIRPORT 3045 AUSTRALIA
+AS AGENT FOR AND ON BEHALF
+OF PANTAINER (H.K.) LIMITED
+________________________________________________________________________
+------------------------------------
+------------------------------------
+CONSIGNEE:
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+NOTIFY:
+
+------------------------------------
+------------------------------------
+PRE-CARRIAGE BY:
+
+------------------------------------
+------------------------------------
+OCEAN VESSEL:
+YM MODERATION                                                                               045E
+------------------------------------
+------------------------------------
+PLACE OF RECEIPT:
+HO CHI MINH CITY
+------------------------------------
+------------------------------------
+PORT OF LOADING:
+CAI MEP
+------------------------------------
+------------------------------------
+PORT OF DISCHARGE:
+MELBOURNE
+------------------------------------
+------------------------------------
+PLACE OF DELIVERY:
+
+------------------------------------
+------------------------------------
+MARKS & NOS.:
+CONT-NO 1111
+SL:1111
+
+555430
+TAYLOR MADE
+PO.NO.
+230417,234162,
+234163,234164,
+234165,234166,
+233399,233795
+PALLET NO. 1G-5G
+CONTAINING
+1-435CARTONS
+C/NO: 1AD-22AD
+C/NO: 1BQ-7BQ
+MADE IN VIETNAM
+
+555970
+TAYLOR MADE
+PO.NO.
+233399,233795
+C/NO: 1GA-16GA
+
+------------------------------------
+------------------------------------
+QUANT.PACKAGE:
+-----------
+1 20' STD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** ADD.INFORMATION
+------------------------------------
+------------------------------------
+DESCRIPTION OF GOODS:
+
+
+
+34 PACKAGES
+5PLTS(435CTNS)
+GOLF CLUB
+(435SET/3480PCS)
+22CTNS GOLF HEAD
+(750PCS)
+7CTNS GOLF CLUB (245PCS)
+HS CODE: 950631, 950639
+INVOICE NO:
+8000163103-4-140
+SO NO:
+VN.19-05-052-1-2+095
+
+
+16 CARTONS
+16CTNS
+GOLF CLUB
+(638PCS)
+
+
+SEE NEXT PAGE **
+------------------------------------
+------------------------------------
+G.WEIGHT KG:
+
+4,031.305
+23.839
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+OCEAN WAY BILL:
+Y
+------------------------------------
+------------------------------------
+OCEAN BILL:
+N
+------------------------------------
+------------------------------------
+NUMBER OF ORIGINAL:
+0
+------------------------------------
+------------------------------------
+RATED:
+0
+------------------------------------
+------------------------------------
+UNRATED:
+1
+------------------------------------
+------------------------------------
+PAYABLE AT:
+
+------------------------------------
+------------------------------------
+DESTINATION:
+
+------------------------------------

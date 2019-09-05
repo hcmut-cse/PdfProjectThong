@@ -1,0 +1,44 @@
+                                     SHIPPING REQUEST
+ Shipper                                                 Booking Number:    SGNV19768700
+ SMART CARGO SERVICE CO., LTD                            S/R Number     :   SE19030003
+ 03RD FL., KICOTRANS BUILDING, 46 BACH DANG 02
+ STREET , WARD 02, TAN BINH DISTRICT, HO CHI
+ MINH CITY, VIET NAM.
+ TEL: (+84 28) 3547 2341                                 TO     :
+ FAX: (+84 28) 3547 2340                                             OCEAN NETWORK EXPRESS (VIETNAM) CO.,
+                                                                     LTD.
+ Consignee                                               TEL    :
+ J-1 TRANS CO., LTD.                                     FAX    :
+ 5F, TK MONZENNAKACHO BLDG., 1-2-13
+ ETCHUJIMA KOTO-KU, TOKYO 135-0044,                      ATTN   :
+ T: 81-3-3820-8400
+ F: 81-3-3820-1060 PIC: SMT INOUE                        FROM      : SMART CARGO SERVICE CO., LTD
+                                                         TEL       : (+84 8) 3547 2341 ETX 204
+                                                         FAX       : (+84 8) 3547 2340
+ Notify                                                  ATTN      : Ms.Mia
+ SAME AS CONSIGNEE                                       E-MAIL    : air-sgn@smartcgo.com
+                                                         REMARK :
+                                                         SEAWAY BILL // DONT SHOW RATE ON SEAWAY BL
+                                                         1. HS CODE: 87089510
+                                                         PLS DONT SHOW HS CODE ON BL
+                                                         2. ISSUED HBL# SCSS-190302
+ M.Vessel/Voyage    MOL EMINENCE/218N                  ETD : 2019-03-03         ETA : 2019-03-12
+ Port of Loading    HO CHI MINH PORT, VIET NAM         Port of Discharge     KOBE, JAPAN
+ Delivery           KOBE, JAPAN                        Final Destination
+  Mark & Number         No of Package           Description of Goods                   Weight     Measurement
+                   1x20DC, 1x40HC         SHIPPER'S LOAD & COUNT              12,200.000 KGS       72.000 CBM
+                   (72) PALLETS           Said To Contain
+                                          CUSHION FOR CAR AIRBAG
+<AUTOLIV>
+PALLET NO. 1-16
+<AUTOLIV>
+PALLET NO. 1-56
+### Container & Seal No ###
+MOAU0606017/VN277147A
+(20DC)/2,344Kgs/16PP/16CBM VGM:4,614KG
+TCLU7973441/VN276510A
+(40HC)/9,856Kgs/56PP/56CBM VGM:13,666KG
+CY/CY                                     FREIGHT PREPAID
+  About    :
+                                                                              (  12,200.000/      72.000)
+

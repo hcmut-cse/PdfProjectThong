@@ -1,0 +1,385 @@
+[
+    {
+    	"LINE AGENT": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "FILE REFERENCE": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+    	"SHIPPER": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "NOTIFY": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+       	"CONSIGNEE": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "PLACE OF RECEIPT": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+        "PRE-CARRIAGE BY": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+        "OCEAN VESSEL": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "VOYAGE": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "PORT OF LOADING": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "ETS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "PORT OF DISCHARGE": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "ETA": {
+                "row": [23, 24],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "PLACE OF DELIVERY": {
+                "row": [24, 25],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "MOVEMENT": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "INSURANCE": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "MARKS & NOS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "QTY": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "PCS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "DESCRIPTION OF GOODS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "GRSS WT KGS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "CBM": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "DOCUMENT REQUIRED": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "NO. OF ORIGINALS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "COPIES": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "FREIGHT PAYMENT": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "PS": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "CONTRACT NUMBER": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "Tel": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "Fax": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        },
+
+        "Email": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": -1,
+                    "bottom": -1,
+                    "left": -1,
+                    "right": -1
+                }
+        }    
+    },
+    {
+        "Header": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]

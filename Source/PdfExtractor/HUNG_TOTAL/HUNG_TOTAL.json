@@ -1,0 +1,300 @@
+{
+        "Shiper": {
+            "row": [2, 6],
+            "column": [0, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Shiper",
+                "bottom": "Consignee",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Consignee": {
+            "row": [7, 10],
+            "column": [0, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Consignee",
+                "bottom": "Notify Party",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Notify Party": {
+            "row": [11, 12],
+            "column": [0, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Notify Party",
+                "bottom": "Pre-carriage by",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Pre-carriage by": {
+            "row": [13, 14],
+            "column": [0, 48],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Pre-carriage by",
+                "bottom": "Ocean vessel",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Place of receipt": {
+            "row": [13, 14],
+            "column": [48, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Place of receipt",
+                "bottom": "Place of loading",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Ocean vessel": {
+            "row": [15, 16],
+            "column": [0, 28],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Ocean vessel",
+                "bottom": "Port of discharge",
+                "left": -1,
+                "right": "        "
+            }
+        },
+        "Voy no": {
+            "row": [15, 16],
+            "column": [28, 49],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Voy no",
+                "bottom": "Port of discharge",
+                "left": "        ",
+                "right": "        "
+            }
+        },
+        "Place of loading": {
+            "row": [15, 16],
+            "column": [49, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Place of loading",
+                "bottom": "Place of delivery",
+                "left": "Voy no",
+                "right": -1
+            }
+        },
+        "Port of discharge": {
+            "row": [17, 18],
+            "column": [0, 37],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of discharge",
+                "bottom": "Owner's mark/container NO.",
+                "left": -1,
+                "right": "        "
+            }
+        },
+        "Place of delivery": {
+            "row": [17, 18],
+            "column": [37, 77],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Place of delivery",
+                "bottom": "Description",
+                "left": "         ",
+                "right": "        "
+            }
+        },
+        "Final destination": {
+            "row": [17, 18],
+            "column": [77, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Final destination",
+                "bottom": "Owner's mark/container NO.",
+                "left": "          ",
+                "right": -1
+            }
+        },
+        "Description": {
+            "row": [20, 22],
+            "column": [20, 95],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Description",
+                "bottom": -1,
+                "left": "Owner's mark/container NO.",
+                "right": "G\\.W\\(KGS\\)"
+            }
+        },
+        "G.W(KGS)": {
+            "row": [20, 22],
+            "column": [95, 111],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "G\\.W\\(KGS\\)",
+                "bottom": -1,
+                "left": "Description",
+                "right": "MEA\\'\\(CMB\\)"
+            }
+        },
+        "MEA'(CMB)": {
+            "row": [20, 22],
+            "column": [111, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "MEA\\'\\(CMB\\)",
+                "bottom": -1,
+                "left": "G\\.W\\(KGS\\)",
+                "right": -1
+            }
+        },
+        "DATA1": {
+            "row": [22, 33],
+            "column": [0, 40],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": -1,
+                "bottom": "Freight and charges etc.",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "DATA2": {
+            "row": [22, 33],
+            "column": [40, null],
+            "hasSubfield": 1,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": -1,
+                "bottom": "Collect",
+                "left": -1,
+                "right": -1
+            },
+            "subfields": {
+                "Total": "(\\s)*(TOTAL:)*(\\s)*[0-9]*(\\s)*[A-Z]*(\\n)",
+                "Desc": 10
+            }
+        },
+        "Freight and charges etc.": {
+            "row": [34, 37],
+            "column": [0, 20],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Freight and charges etc.",
+                "bottom": "As agents",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "prepaid": {
+            "row": [34, 37],
+            "column": [31, 40],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "prepaid",
+                "bottom": "As agents",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "Collect": {
+            "row": [34, 37],
+            "column": [63, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "Collect",
+                "bottom": "As agents",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "BKG": {
+            "row": [38, 39],
+            "column": [7, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 1,
+            "topAndKeywordOnSingleLine": 1,
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": -1,
+                "left": "BKG :",
+                "right": -1
+            }
+        },
+        "HBL ": {
+            "row": [39, 40],
+            "column": [7, null],
+            "hasSubfield": 0,
+            "contentSameLineWithKeyword": 1,
+            "topAndKeywordOnSingleLine": 0,
+            "isFlex": 1,
+            "endObject": {
+                "top": "BKG",
+                "bottom": -1,
+                "left": "HBL :",
+                "right": -1
+            }
+        }
+}

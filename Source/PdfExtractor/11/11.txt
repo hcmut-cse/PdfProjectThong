@@ -1,0 +1,129 @@
+------------------------------------
+Shipper:
+PHUC THINH EXPORT IMPORT INVESTMENT
+CORPORATION (PTEXIM CORP)
+43, STREET 17, AN PHU WARD, DISTRICT 2,
+ON BEHALF OF PRODIFO B.V
+------------------------------------
+------------------------------------
+Consignee:
+TRANSFORMACIONES DEL CARIBE,
+SOCIEDAD ANONIMA, 6 AVENIDA
+1-09 APTO, 1 ZONA 2 EL TESORO MIXCO, GUATEMALA
+NIT : 7692021-6
+------------------------------------
+------------------------------------
+Forwarding agent - Name and full address:
+
+
+
+
+
+------------------------------------
+------------------------------------
+Notify address:
+TRANSFORMACIONES DEL CARIBE,
+SOCIEDAD ANONIMA, 6 AVENIDA
+1-09 APTO, 1 ZONA 2 EL TESORO MIXCO, GUATEMALA
+NIT : 7692021-6
+------------------------------------
+------------------------------------
+Also notify:
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Vessel:
+BIENDONG NAVIGATOR
+
+V.NB913N
+------------------------------------
+------------------------------------
+Port of loading:
+
+HAIPHONG, VIETNAM
+
+------------------------------------
+------------------------------------
+Port of discharge:
+PUERTO QUETZAL , GUATEMALA
+------------------------------------
+------------------------------------
+Place of delivery:
+PUERTO QUETZAL , GUATEMALA
+------------------------------------
+------------------------------------
+Kind of Packages:
+;
+------------------------------------
+------------------------------------
+Description of goods:
+
+CASSIA GROUND 2% SVO
+NW: 7.00 MTS, GW: 7.084 MTS, 280 BAGS
+
+SHIPPED ON BOARD ON BIENDONG NAVIGATOR V.NB913N
+AT HAIPHONG, VIETNAM
+12 MAY, 2019
+------------------------------------
+------------------------------------
+Weight:
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Measurement:
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+CONTAINER/SEAL NO:
+KKTU 8098051/VN225537A
+------------------------------------
+------------------------------------
+Marks and Numbers:
+SHOWN ON BAGS
+------------------------------------
+------------------------------------
+B/L to be released at:
+HOCHIMINH
+------------------------------------
+------------------------------------
+Received on account of freight:
+
+------------------------------------
+------------------------------------
+Freight payable at:
+===================
+------------------------------------
+------------------------------------
+Place and date of issued:
+HOCHIMINH CITY, VIETNAM                                      12 MAY, 2019
+------------------------------------
+------------------------------------
+Number of original Bs/L:
+(3) Three Original
+
+------------------------------------
+------------------------------------
+Signature:
+
+AS AGENT FOR THE OCEAN CARRIER
+------------------------------------

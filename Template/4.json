@@ -1,0 +1,326 @@
+[
+	{
+		"Shipper":
+		{
+			"row": [1,9],
+			"column": [0,58],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Shipper",
+				"bottom": "Consignee",
+				"left": -1,
+				"right": "Booking Number"
+			}
+		},
+		"Booking Number":
+		{
+			"row": [1,2],
+			"column": [74,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "S/R Number",
+				"left": "Booking Number:",
+				"right": -1
+			}
+		},
+		"S/R Number":
+		{
+			"row": [2,3],
+			"column": [74, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "TO",
+				"left": "S/R Number",
+				"right": -1
+			}
+		},
+		"TO":
+		{
+			"row": [6, 9],
+			"column": [66, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "TEL   ",
+				"left": "TO   ",
+				"right": -1
+			}
+		},
+		"TEL":
+		{
+			"row": [8,9],
+			"column": [66, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "FAX",
+				"left": "TEL",
+				"right": -1
+			}
+		},
+		"Consignee":
+		{
+			"row": [10, 17],
+			"column": [0, 58],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Consignee",
+				"bottom": "Notify",
+				"left": -1,
+				"right": "Booking Number"
+			}
+		},
+		
+		"FAX":
+		{
+			"row": [10,11],
+			"column": [66, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "ATTN",
+				"left": "FAX",
+				"right": -1
+			}
+		},
+		"ATTN":
+		{
+			"row": [12,13],
+			"column": [69, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "FROM",
+				"left": "ATTN",
+				"right": -1
+			}
+		},
+		"FROM":
+		{
+			"row": [14, 15],
+			"column": [66, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "TEL",
+				"left": "FROM",
+				"right": -1
+			}
+		},
+		"Notify":
+		{
+			"row": [17, 24],
+			"column": [0, 58],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Notify",
+				"bottom": "M.Vessel/Voyage",
+				"left": -1,
+				"right": "ATTN"
+			}
+		},
+		"E-MAIL":
+		{
+			"row": [18,19],
+			"column": [66, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "REMARK",
+				"left": "E-MAIL",
+				"right": -1
+			}
+		},
+		"REMARK":
+		{
+			"row": [20,24],
+			"column": [58, null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "REMARK",
+				"bottom": "ETD",
+				"left": "Notify",
+				"right": -1
+			}
+		},
+		"M.Vessel/Voyage":
+		{
+			"row": [24, 25],
+			"column": [16, 56],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Port of Loading",
+				"left": "M.Vessel/Voyage",
+				"right": "ETD"
+			}
+		},
+
+		"ETD":
+		{
+			"row": [24, 25],
+			"column": [61, 81],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Port of Discharge",
+				"left": "ETD",
+				"right": "ETA"
+			}
+		},
+
+		"ETA":
+		{
+			"row": [24, 25],
+			"column": [85,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Port of Discharge",
+				"left": "ETA",
+				"right": -1
+			}
+		},
+
+		"Port of Loading": {
+			"row": [25, 26],
+			"column": [16, 55],
+			"isFlex": 1,
+			"endObject": {
+				"top": "same_left",
+				"bottom": "Delivery",
+				"left": "Port of Loading",
+				"right": "Port of Discharge"
+			}
+		},
+		"Port of Discharge": {
+			"row": [25,26],
+			"column": [72, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "same_left",
+				"bottom": "Final Destination",
+				"left": "Port of Discharge",
+				"right": -1
+			}
+		},
+		"Delivery": {
+			"row": [26, 27],
+			"column": [16, 55],
+			"isFlex": 1,
+			"endObject": {
+				"top": "same_left",
+				"bottom": "Mark & Number",
+				"left": "Delivery",
+				"right": "Final Destination"
+			}
+		},
+		"Final Destination": {
+			"row": [26,27],
+			"column": [72, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "same_left",
+				"bottom": "Description of Goods",
+				"left": "Final Destination",
+				"right": -1
+			}
+		},
+		"Mark & Number": {
+			"row": [28,29],
+			"column": [0,19],
+			"isFlex": 1,
+			"endObject": {
+				"top": "Mark & Number",
+				"bottom": "SHIPPING MARK",
+				"left": -1,
+				"right": "No of Package"
+			}
+		},
+		"No of Package": {
+			"row": [28,29],
+			"column": [19,43],
+			"isFlex": 1,
+			"endObject": {
+				"top": "No of Package",
+				"bottom": "SHIPPING MARK",
+				"left": "Mark & Number",
+				"right": "Description of Goods"
+			}
+		},
+		"Description of Goods": {
+			"row": [28,40],
+			"column": [43,79],
+			"isFlex": 1,
+			"endObject": {
+				"top": "Description of Goods",
+				"bottom": "About",
+				"left": "No of Package",
+				"right": "Weight"
+			}
+		},
+		"Weight": {
+			"row": [28,29],
+			"column": [79,99],
+			"isFlex": 1,
+			"endObject": {
+				"top": "Weight",
+				"bottom": "About",
+				"left": "Description of Goods",
+				"right": "Measurment"
+			}
+		},
+		"Measurement": {
+			"row": [28,29],
+			"column": [99, null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "Measurement",
+				"bottom": "About",
+				"left": "Weight",
+				"right": -1
+			}
+		},
+
+		"About": {
+			"row": [39,40],
+			"column": [12,null],
+			"isFlex": 1,
+			"endObject": {
+				"top": "same_left",
+				"bottom": -1,
+				"left": "About",
+				"right": -1
+			}
+		}
+	},
+	{
+		"Header": {
+			"row": [0, 0],
+			"column": [0, 0],
+			"pages": "all"
+		},
+		"Footer": {
+			"row": [0, 0],
+			"column": [0, 0],
+			"pages": "all"
+		}
+	}
+]

@@ -1,0 +1,72 @@
+------------------------------------
+Shipper:
+HUC THINH EXPORT IMPORT INVESTMENT CORPORATION (PTEXIM CORP)                                                            Booking No. SGNV58678300
+3, STREET 17, AN PHU WARD
+ISTRICT 2, HOCHIMINH CITY, VIETNAM
+------------------------------------
+------------------------------------
+Consignee:
+ZANIDIS S.A
+OIOU 81 ( EX337) , 13677 ACHARNES -GREECE
+: + 302108002550
+------------------------------------
+------------------------------------
+Notify address:
+TZANIDIS S.A                                                           Also notify
+TOIOU 81 ( EX337) , 13677 ACHARNES -GREECE
+------------------------------------
+------------------------------------
+Vessel:
+RID EXPRESS V.002W HOCHIMINH, VIETNAM
+------------------------------------
+------------------------------------
+Port of loading:
+ERROR
+------------------------------------
+------------------------------------
+Port of discharge:
+PIRAEUS, GREECE               PIRAEUS, GREECE
+PARTICULARS FURNISHED BY SHIPPER
+Marks and Numbers; Container No./Seal No.; Kind of Packages; Description of goods                                    Weight          Measurement
+CONTAINER/SEAL NO.:
+------------------------------------
+------------------------------------
+Place of delivery:
+ERROR
+------------------------------------
+------------------------------------
+Forwarding agent - Name and full address:
+ERROR
+------------------------------------
+------------------------------------
+Also notify:
+ERROR
+------------------------------------
+------------------------------------
+MARKINGS:
+SHOWN ON BAGS                                             WHOLE BLACK PEPPER 520 G/L SPIRAL CLEANED
+NW: 4.00 MTS, GW: 4.016 MTS, 160 BAGS
+WHITE PEPPER 630 DW SPIRAL CLEANED
+NW: 1.00MTS, GW: 1.004 MTS, 40 BAGS
+TOTAL :
+------------------------------------
+------------------------------------
+CONTAINER/SEAL NO:
+ERROR
+------------------------------------
+------------------------------------
+Weight:
+HOCHIMINH
+------------------------------------
+------------------------------------
+Measurement:
+HOCHIMINH
+------------------------------------
+------------------------------------
+B/L to be released at:
+HOCHIMINH
+------------------------------------
+------------------------------------
+Signature:
+T HOCHIMINH, VIETNAM
+------------------------------------

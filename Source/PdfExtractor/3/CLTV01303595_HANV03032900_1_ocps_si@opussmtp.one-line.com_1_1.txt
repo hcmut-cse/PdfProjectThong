@@ -1,0 +1,65 @@
+------------------------------------
+BILL OF LADING NO:
+ERROR
+------------------------------------
+------------------------------------
+Shipper:
+THANH HOA FISHERY IMPORT - EXPORT J.S.C
+LOT E, LE MON INDUSTRIAL ZONE, THANH HOA CITY, VIETNAM
+------------------------------------
+------------------------------------
+Consignee:
+PANAPESCA SPA.
+VIA MAZZINI, 31-51010 MASSA ECOZZILE PISTOIA - ITALY
+EORI NO IT 00161570478.TEL: 003905727791
+------------------------------------
+------------------------------------
+NOFIFY PARTY:
+PANAPESCA SPA.
+VIA MAZZINI, 31-51010 MASSA ECOZZILE PISTOIA - ITALY
+EORI NO IT 00161570478.TEL: 003905727791
+------------------------------------
+------------------------------------
+Port of Loading:
+HAI PHONG PORT, VIETNAM
+------------------------------------
+------------------------------------
+Port of Discharge:
+LIVORNO PORT, ITALY
+------------------------------------
+------------------------------------
+Payment:
+FREIGHT PREPAID
+------------------------------------
+------------------------------------
+TÊN HÀNG HÓA:
+FROZEN COOKED WHOLE CLAM SHELL ON (MERETRIX LYRATA)
+NET WEIGHT:                24,000.00 KGS
+FREE 5 DAY DEMURRAGE , FREE 5 DAYS PLUG-IN,
+FREE 5 DAYS DETENTION AT DESTINATION
+               
+------------------------------------
+------------------------------------
+GROSS WEIGHT:
+/GROSS WEIGHT:            26,304.00 KGS
+------------------------------------
+------------------------------------
+SỐ KIỆN:
+/ (SỐ KIỆN ) :          2,400       CTNS
+------------------------------------
+------------------------------------
+TÊN TÀU:
+/ (TÊN TÀU) :           BOX ENDEAVOUR 0IU1QS1NC
+------------------------------------
+------------------------------------
+NGÀY CHẠY:
+FEB. 02, 2019
+------------------------------------
+------------------------------------
+CONT NO / SEAL NO:
+/CONT NO / SEAL NO :   SZLU9233773/MOL041141L
+------------------------------------
+------------------------------------
+HS CODE:
+
+------------------------------------

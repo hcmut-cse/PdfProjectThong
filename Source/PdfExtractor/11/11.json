@@ -1,0 +1,273 @@
+[
+    {
+        "Shipper": {
+                "row": [3, 7],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Shipper",
+                    "bottom": "Consignee",
+                    "left": -1,
+                    "right": "Forwarding agent - Name and full address"
+                }
+        },
+
+        "Consignee": {
+                "row": [8, 12],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Consignee",
+                    "bottom": "Notify address",
+                    "left": -1,
+                    "right": "Forwarding agent - Name and full address"
+                }
+        },
+
+        "Forwarding agent - Name and full address": {
+                "row": [8, 13],
+                "column": [73, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Forwarding agent - Name and full address",
+                    "bottom": "Also notify",
+                    "left": "Consignee",
+                    "right": -1
+                }
+        },
+
+        "Notify address": {
+                "row": [13, 17],
+                "column": [0, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Notify address",
+                    "bottom": "Vessel",
+                    "left": -1,
+                    "right": "Also notify"
+                }
+        },
+
+
+        "Also notify": {
+                "row": [14, 23],
+                "column": [73, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Also notify",
+                    "bottom": "PARTICULARS FURNISHED BY SHIPPER",
+                    "left": "Notify address",
+                    "right": -1
+                }
+        },
+
+        "Vessel": {
+                "row": [18, 21],
+                "column": [0, 30],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Vessel",
+                    "bottom": "Port of discharge",
+                    "left": -1,
+                    "right": "Port of loading"
+                }
+        },
+
+        "Port of loading": {
+                "row": [18, 21],
+                "column": [30, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Port of loading",
+                    "bottom": "Place of delivery",
+                    "left": "Port of discharge",
+                    "right": "Also notify"
+                }
+        },
+
+        "Port of discharge": {
+                "row": [22, 23],
+                "column": [0, 30],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Port of discharge",
+                    "bottom": "PARTICULARS FURNISHED BY SHIPPER",
+                    "left": -1,
+                    "right": "Place of delivery"
+                }
+        },
+
+        "Place of delivery": {
+                "row": [22, 23],
+                "column": [30, 73],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Place of delivery",
+                    "bottom": "PARTICULARS FURNISHED BY SHIPPER",
+                    "left": "Port of discharge",
+                    "right": "Also notify"
+                }
+        },
+
+        "Marks and Numbers": {
+                "row": [28, 29],
+                "column": [0, 30],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "MARKINGS",
+                    "bottom": -1,
+                    "left": -1,
+                    "right": "Kind of Packages"
+                }
+        },
+
+        "CONTAINER/SEAL NO": {
+                "row": [26, 27],
+                "column": [0, 60],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "CONTAINER/SEAL NO",
+                    "bottom": "MARKINGS",
+                    "left": -1,
+                    "right": "    "
+                }
+        },
+
+        "Kind of Packages": {
+                "row": [24, 25],
+                "column": [60, 61],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "CONTAINER/SEAL NO",
+                    "left": "Kind of Packages",
+                    "right": "Description of goods"
+                }
+        },
+
+        "Description of goods": {
+                "row": [25, 32],
+                "column": [58, 117],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Description of goods",
+                    "bottom": "NIL",
+                    "left": "Kind of Packages",
+                    "right": "Weight"
+                }
+        },
+
+        "Weight": {
+                "row": [25, 32],
+                "column": [117, 133],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Description of goods",
+                    "bottom": "NIL",
+                    "left": "Description of goods",
+                    "right": "Measurement"
+                }
+        },
+
+        "Measurement": {
+                "row": [25, 32],
+                "column": [133, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Description of goods",
+                    "bottom": "NIL",
+                    "left": "Weight",
+                    "right": -1
+                }
+        },
+
+        "B/L to be released at": {
+                "row": [34, 36],
+                "column": [21, 58],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "FCL/FCL CY/CY",
+                    "left": "B/L to be released at",
+                    "right": "Place and date of issued"
+                }
+        },
+
+        "Received on account of freight": {
+                "row": [40, 42],
+                "column": [40, 58],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": -1,
+                    "left": "Received on account of freight",
+                    "right": "Place and date of issued"
+                }
+        },
+
+        "Freight payable at": {
+                "row": [45, 46],
+                "column": [30, 52],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Freight payable at",
+                    "bottom": "Number of original Bs/L",
+                    "left": -1,
+                    "right": "Place and date of issued"
+                }
+        },
+
+        "Place and date of issued": {
+                "row": [45, 46],
+                "column": [52, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Place and date of issued",
+                    "bottom": "Signature",
+                    "left": "Freight payable at",
+                    "right": -1
+                }
+        },
+
+
+
+        "Number of original Bs/L": {
+                "row": [47, 50],
+                "column": [30, 58],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Number of original Bs/L",
+                    "bottom": -1,
+                    "left": -1,
+                    "right": "Signature"
+                }
+        },
+
+
+
+        "Signature": {
+                "row": [47, 50],
+                "column": [58, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "Signature",
+                    "bottom": -1,
+                    "left": "Number of original Bs/L",
+                    "right": -1
+                }
+        }
+    },
+
+    {
+      "Header": {
+        "row": [0, 0],
+        "column": [0, 0],
+        "pages": "all"
+      },
+      "Footer": {
+        "row": [0, 0],
+        "column": [0, 0],
+        "pages": "all"
+      }
+    }
+]

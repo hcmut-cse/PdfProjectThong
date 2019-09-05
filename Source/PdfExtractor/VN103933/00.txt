@@ -1,0 +1,68 @@
+-----------------------
+Shipper:
+HYOSUNG VIETNAM CO. LTD.
+N2 STREET, NHON TRACH 5 INDUSTRIAL ZONE,
+NHON TRACH DISTRICT, DONG NAI PROVINCE, VIETNAM
+TEL (0251) 3566102
+
+-----------------------
+Reference No.:
+SE1903751
+-----------------------
+Booking No.:
+SGNV42187500
+-----------------------
+TO:
+OCEAN NETWORLD EXPRESS
+-----------------------
+TEL:
+3821.4446 EXT 117
+-----------------------
+Consignee:
+
+HYOSUNG JAPAN CO., LTD
+SVAX TT BLDG.,6F, 3-11-15,
+TORANOMON, MINATO-KU, TOKYO, JAPAN
+(TEL 81-3-3432-1005)
+FAX 81-3-3459-9300
+
+
+
+-----------------------
+ATTN:
+DOAN VUONG PHUC
+-----------------------
+FROM:
+YJC VIETNAM CO., LTD
+-----------------------
+E-MAIL:
+phucdv@yjc.com.vn
+-----------------------
+Notify:
+HYOSUNG JAPAN CO., LTD
+SVAX TT BLDG.,6F, 3-11-15,
+TORANOMON, MINATO-KU, TOKYO, JAPAN
+(TEL 81-3-3432-1005)
+FAX 81-3-3459-9300
+
+-----------------------
+M.B/L Type:
+SEAWAY BILL
+-----------------------
+HS Code:
+590220
+-----------------------
+M.Vessel/Voyage:
+MOL EMINENCE/219N
+-----------------------
+ETD:
+MAR.31.2019
+-----------------------
+Port of Loading:
+VUNG TAU PORT, VIETNAM
+-----------------------
+Port of Discharge:
+NAGOYA, JAPAN
+-----------------------
+Delivery:
+NAGOYA, JAPAN

@@ -1,0 +1,162 @@
+[
+    {
+            "BILL OF LADING NO": {
+                "row": [1, 2],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "SHIPPER",
+                    "left": "BILL OF LADING NO:",
+                    "right": -1
+                }
+            },
+            "SHIPPER": {
+                "row": [3, 5],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "SHIPPER",
+                    "bottom": "CONSIGNEEE",
+                    "left": -1,
+                    "right": -1
+                }
+            },
+            "CONSIGNEEE": {
+                "row": [6, 9],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "CONSIGNEEE",
+                    "bottom": "NOFIFY PARTY",
+                    "left": -1,
+                    "right": -1
+                }
+            },
+            "NOFIFY PARTY": {
+                "row": [10, 13],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "NOFIFY PARTY",
+                    "bottom": "PORT OF LOADING",
+                    "left": -1,
+                    "right": -1
+                }
+            },
+            "PORT OF LOADING": {
+                "row": [13, 14],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "PORT OF DISCHARGE",
+                    "left": "PORT OF LOADING:",
+                    "right": -1
+                }
+            },
+            "PORT OF DISCHARGE": {
+                "row": [14, 15],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "TÊN HÀNG HÓA",
+                    "left": "PORT OF DISCHARGE :",
+                    "right": -1
+                }
+            },
+            "TÊN HÀNG HÓA": {
+                "row": [16, 19],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "TÊN HÀNG HÓA",
+                    "bottom": "GROSS WEIGHT",
+                    "left": -1,
+                    "right": -1
+                }
+            },
+           
+            "SỐ KIỆN": {
+                "row": [20, 21],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "TÊN TÀU",
+                    "left": "\\(SỐ KIỆN \\) \\:",
+                    "right": -1
+                }
+            },
+
+             "GROSS WEIGHT": {
+                "row": [19, 20],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "SỐ KIỆN",
+                    "left": "GROSS WEIGHT\\:",
+                    "right": -1
+                }
+            },
+            
+            "TÊN TÀU": {
+                "row": [21, 22],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "NGÀY CHẠY",
+                    "left": "\\(TÊN TÀU\\) \\:",
+                    "right": -1
+                }
+            },
+            "NGÀY CHẠY": {
+                "row": [22, 23],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "CONT NO \\/ SEAL NO",
+                    "left": "NGÀY CHẠY",
+                    "right": -1
+                }
+            },
+            "CONT NO / SEAL NO": {
+                "row": [23, 24],
+                "column": [0, null],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": "HS CODE",
+                    "left": "CONT NO \\/ SEAL NO :",
+                    "right": -1
+                }
+            },
+            "HS CODE": {
+                "row": [24, 25],
+                "column": [15, 21],
+                "isFlex": 1,
+                "endObject": {
+                    "top": "same_left",
+                    "bottom": -1,
+                    "left": "HS CODE",
+                    "right": -1
+                }
+            }
+    },
+    {
+        "Header": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]

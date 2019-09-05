@@ -1,0 +1,122 @@
+------------------------------------
+HeaderDATA:
+Ho Chi Minh City Office                        Ha Noi City Office                              Hai Phong City Office                          Da Nang City Office                            Nam Dinh City Office
+Email: info@beelogstics.com                    Email: han.office@beelogstics.com               Email: haiphong.office@beelogstics.com         Email: danang.office@beelogstics.com           Email: namdinh.office@beelogstics.com
+Tel: +84.8.62647272 - Fax: 84.8.62647373       Tel: +84.4.37623748 - Fax: +84.4.37623750       Tel: +84.31.3753108 - Fax: +84.31.3753109      Tel: +84.511.2241587 - Fax: +84.511.3816767    Tel: +84.350.3511109 - Fax: +84.350.3511109
+Lang Son City Office                           Phnom Penh City Office                          Yangon City Office                             Bangkok City Office                            VSIP I Office
+Email: langson.office@beelogstics.com          Email: phompenh.office@beelogstics.com          Email: yangon.office@beelogstics.com           Email: bangkok.office@beelogstics.com          Email: info@beelogstics.com
+Tel: +84.25.3889688 - Fax: +84.25.3889689      Tel: +855.23.967272 - Fax: +855.23.967373       Tel: +95.1.9010575 - Fax: +95.1.9010575        Tel: +66.2.2862700 - Fax: +66.2.2867554        Tel: +84.650.3719992 - Fax: +84.650.3719993
+------------------------------------
+------------------------------------
+From:
+NINA.VNSGN
+------------------------------------
+------------------------------------
+To:
+Ocean Network Express (VN) Co LTD
+------------------------------------
+------------------------------------
+Tel:
+
+------------------------------------
+------------------------------------
+Attn:
+
+------------------------------------
+------------------------------------
+Booking No.:
+SGNV39443600
+------------------------------------
+------------------------------------
+Date:
+Mar 27, 2019
+------------------------------------
+------------------------------------
+Shipper Name & Address:
+BEE LOGISTICS CORPORATION – HOCHIMINH OFFICE
+2ND FL, HAI AU BUILDING. 39B TRUONG SON
+STREET, WARD 4, TAN BINH DISTRICT,
+HO CHI MINH CITY, VIET NAM.
+TEL: 84.8.62647272 FAX: 84.8.62647373
+------------------------------------
+------------------------------------
+Consignee Name & Address:
+MARINAIR CARGO SERVICES LTD
+97, AKTI MIAOULI AVE.
+185-38 PIRAEUS, GREECE
++30 210 4515901 -902 -551
+
+------------------------------------
+------------------------------------
+Notify Party:
+SAME AS CONSIGNEE
+------------------------------------
+------------------------------------
+Port of Loading:
+HOCHIMINH, VIETNAM
+------------------------------------
+------------------------------------
+Port of Discharge:
+PIRAEUS, GREECE
+------------------------------------
+------------------------------------
+Place of Delivery:
+PIRAEUS, GREECE
+------------------------------------
+------------------------------------
+Vessel:
+YM WORLD 021E
+------------------------------------
+------------------------------------
+Etd:
+Mar 30 2019
+------------------------------------
+------------------------------------
+Container/Seal No.:
+01X20´DC
+KKTU7874530/20DC/VN241338A
+------------------------------------
+------------------------------------
+Packages:
+1851 CTNS
+
+------------------------------------
+------------------------------------
+Description of Goods:
+BIODEGRADABLE T-SHIRT BAG
+HS CODE: 39232990
+------------------------------------
+------------------------------------
+G.W (KGS):
+13,991.090
+
+------------------------------------
+------------------------------------
+CBM:
+25.000
+
+------------------------------------
+------------------------------------
+Remarks:
+SEA WAY BILL
+------------------------------------
+------------------------------------
+Payment:
+PREPAID
+------------------------------------
+------------------------------------
+Total type:
+01X20´DC
+------------------------------------
+------------------------------------
+Total Packages:
+1,851 CTNS
+------------------------------------
+------------------------------------
+Total G.W (KGS):
+13,991.090
+------------------------------------
+------------------------------------
+Total CBM:
+25.000
+------------------------------------

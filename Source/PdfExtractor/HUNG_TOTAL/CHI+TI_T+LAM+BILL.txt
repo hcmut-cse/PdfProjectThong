@@ -1,0 +1,123 @@
+------------------------------------
+Shiper:
+VIETCO FREIGHT CO.,LTD
+THE PRINCE BUILDING ROOM P1-0329, 3RD FLOOR, 17-19-21 NGUYEN VAN TROI STREET, WARD 12,
+PHU NHUAN DIST, HOCHIMINH,VIETNAM
+TEL: 3.9903870 FAX: 3.9903778
+------------------------------------
+------------------------------------
+Consignee:
+RDD FREIGHT INT'L INC.-LOS ANGELES
+17425 RAILROAD ST. CITY OF INDUSTRY, CA 91748
+TEL: 626-810-0700 FAX: 628-810-6900
+------------------------------------
+------------------------------------
+Notify Party:
+SAME AS CONSIGNEE
+------------------------------------
+------------------------------------
+Pre-carriage by:
+ALS FAUNA                   046N
+------------------------------------
+------------------------------------
+Place of receipt:
+HOCHIMINH, VIETNAM
+------------------------------------
+------------------------------------
+Ocean vessel:
+
+------------------------------------
+------------------------------------
+Voy no:
+
+------------------------------------
+------------------------------------
+Place of loading:
+HOCHIMINH, VIETNAM
+------------------------------------
+------------------------------------
+Port of discharge:
+HONOLULU, HAWAII, USA
+------------------------------------
+------------------------------------
+Place of delivery:
+HONOLULU, HAWAII, USA
+------------------------------------
+------------------------------------
+Final destination:
+HONOLULU, HAWAII, USA
+------------------------------------
+------------------------------------
+Description:
+"SHIPPER'S LOAD, STOWAGE, COUNT & SEAL"
+01X20'DC CONTAINER S.T.C
+------------------------------------
+------------------------------------
+G.W(KGS):
+7,774.00
+KGS
+------------------------------------
+------------------------------------
+MEA'(CMB):
+25.00
+CBM
+------------------------------------
+------------------------------------
+DATA1:
+NYKU3195380 / VN277751A / 20'DC
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Freight and charges etc.:
+OCEAN FREIGHT
+DDC
+AMS
+------------------------------------
+------------------------------------
+prepaid:
+X
+X
+X
+------------------------------------
+------------------------------------
+Collect:
+Kind of B/L                      SEAWAY BILL
+Freight Payable                    HOCHIMINH
+Place and date of issue             April 25, 2019
+------------------------------------
+------------------------------------
+BKG:
+SGNV49442600
+------------------------------------
+------------------------------------
+HBL :
+VCF190411HNL
+------------------------------------
+------------------------------------
+DATA2_Total:
+269 BAGS
+
+------------------------------------
+------------------------------------
+DATA2_Desc:
+269 BAGS
+GIRL DRESS, GIRL SPAGHETTI DRESS, GIRL DRESS NECK AROUND,
+GIRL DRESS TRIANGLE,
+LADY BEACH COVER, LADY DRESS TRIANGLE, SHORT BEACH
+COVER, LONG BEACH COVER, LADY TUBE DRESS, LADY DRESS
+SLEEVES WITH POCKETS, BABY DOLL NET, LADY SHORT SLEEVES
+DRESS , LADY LONG TANK, LADY SHORT TANK, LONG SPAGHETTI
+DRESS WITH BUTTONS, SHORT SPAGHETTI DRESS WITH
+BUTTONS, PULLOVER SWEATER, ZIPPER HOOD SWEATER
+HS CODE: 62044990, 61109000
+HBL#VCF190411HNL
+------------------------------------

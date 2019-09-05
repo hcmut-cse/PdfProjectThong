@@ -1,0 +1,31 @@
+##################################################
+TEMPLATE 2
+------------------------------------
+CLTV01172419_SGNV05683500_1_ocps_si@opussmtp.one-line.com_1(ocps20190117105338_1)_1.pdf 2
+Warning: CLTV01172419_SGNV05683500_1_ocps_si@opussmtp.one-line.com_1(ocps20190117105338_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01043891_HANV00089400_1_ocps_si@opussmtp.one-line.com_2(ocps20190104152640_2)_1.pdf 2
+Warning: CLTV01043891_HANV00089400_1_ocps_si@opussmtp.one-line.com_2(ocps20190104152640_2)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01095214_SGNV04598900_1_ocps_si@opussmtp.one-line.com_3(ocps20190109170806_3)_1.pdf 2
+Warning: CLTV01095214_SGNV04598900_1_ocps_si@opussmtp.one-line.com_3(ocps20190109170806_3)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+2.pdf 2
+Warning: 2.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01044864_HANV00100900_1_ocps_si@opussmtp.one-line.com_1(ocps20190104170419_1)_1.pdf 2
+Warning: CLTV01044864_HANV00100900_1_ocps_si@opussmtp.one-line.com_1(ocps20190104170419_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01113180_HANV00643700_1_ocps_si@opussmtp.one-line.com_2(ocps20190111121314_2)_1.pdf 2
+Warning: CLTV01113180_HANV00643700_1_ocps_si@opussmtp.one-line.com_2(ocps20190111121314_2)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01172213_SGNV03417500_1_ocps_si@opussmtp.one-line.com_1(ocps20190117102638_1)_1.pdf 2
+Warning: CLTV01172213_SGNV03417500_1_ocps_si@opussmtp.one-line.com_1(ocps20190117102638_1)_1.pdf doesn't fully match the template
+------------------------------------
+##################################################

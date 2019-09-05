@@ -1,0 +1,381 @@
+[
+    {
+        "Date :": {
+            "row": [0, 1],
+            "column": [171, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Attn :",
+                "left": "Date :",
+                "right": -1
+            }
+        },
+        "To:": {
+            "row": [1, 2],
+            "column": [90, 165],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Customers contact \\(name / tel / email\\) \\(for draft BL dispatching\\)",
+                "left": "To:",
+                "right": "Attn :"
+            }
+        },
+        "Attn :": {
+            "row": [1, 2],
+            "column": [171, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Customers contact \\(name / tel / email\\) \\(for draft BL dispatching\\)",
+                "left": "Attn :",
+                "right": -1
+            }
+        },
+        "Shipper (complete name and address)": {
+            "row": [2, 7],
+            "column": [0, 86],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Shipper \\(complete name and address\\)",
+                "bottom": "Consignee \\(complete name and address\\)",
+                "left": -1,
+                "right": "Customers contact \\(name / tel / email\\) \\(for draft BL dispatching\\)"
+            }
+        },
+        "Customers contact (name / tel / email) (for draft BL dispatching)": {
+            "row": [2, 3],
+            "column": [153, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Booking No.",
+                "left": "Customers contact \\(name / tel / email\\) \\(for draft BL dispatching\\) :",
+                "right": -1
+            }
+        },
+        "Booking No.": {
+            "row": [4, 5],
+            "column": [98, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "B/L No.",
+                "left": "Booking No.:",
+                "right": -1
+            }
+        },
+        "B/L No.": {
+            "row": [4, 5],
+            "column": [98, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "ORIGINAL",
+                "left": "B/L No.:",
+                "right": -1
+            }
+        },
+        "ORIGINAL": {
+            "row": [7, 10],
+            "column": [154, 166],
+            "isFlex": 1,
+            "endObject": {
+                "top": "ORIGINAL",
+                "bottom": "Consignee \\(complete name and address\\)",
+                "left": -1,
+                "right": "SURRENDER"
+            }
+        },
+        "SURRENDER": {
+            "row": [7, 10],
+            "column": [166, 185],
+            "isFlex": 1,
+            "endObject": {
+                "top": "SURRENDER",
+                "bottom": "Consignee \\(complete name and address\\)",
+                "left": "ORIGINAL",
+                "right": "SEAWAY"
+            }
+        },
+        "SEAWAY": {
+            "row": [7, 10],
+            "column": [185, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "SEAWAY",
+                "bottom": "Consignee \\(complete name and address\\)",
+                "left": "SURRENDER",
+                "right": -1
+            }
+        },
+        "Consignee (complete name and address)": {
+            "row": [11, 18],
+            "column": [0, 86],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Consignee \\(complete name and address\\)",
+                "bottom": "Notify Party \\(complete name and address\\)",
+                "left": -1,
+                "right": "Place of issue :"
+            }
+        },
+        "Place of issue :": {
+            "row": [11, 13],
+            "column": [102, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "Other requests :",
+                "left": "Place of issue :",
+                "right": -1
+            }
+        },
+        "Other requests :": {
+            "row": [14, 18],
+            "column": [86, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Other requests :",
+                "bottom": "Also Notify Party \\(complete name and address\\)",
+                "left": "Consignee \\(complete name and address\\)",
+                "right": -1
+            }
+        },
+        "Notify Party": {
+            "row": [19, 25],
+            "column": [0, 86],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Notify Party \\(complete name and address\\)",
+                "bottom": "Feeder vessel",
+                "left": -1,
+                "right": "Also Notify Party \\(complete name and address\\)"
+            }
+        },
+
+        "Also Notify Party": {
+            "row": [19, 25],
+            "column": [86, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Also Notify Party \\(complete name and address\\)",
+                "bottom": "Service Contract Number",
+                "left": "Notify Party \\(complete name and address\\)",
+                "right": -1
+            }
+        },
+        "Feeder vessel": {
+            "row": [26, 27],
+            "column": [0, 52],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Feeder vessel",
+                "bottom": "Mother vessel",
+                "left": -1,
+                "right": "Place of Receipt"
+            }
+        },
+        "Place of Receipt": {
+            "row": [26, 27],
+            "column": [52, 86],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Pace of Receipt",
+                "bottom": "Port of Loading",
+                "left": "Feeder vessel",
+                "right": "Service Contract Number"
+            }
+        },
+        "Service Contract Number": {
+            "row": [26, 27],
+            "column": [86, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Service Contract Number",
+                "bottom": "Final destination",
+                "left": "Pace of Receipt",
+                "right": -1
+            }
+        },
+        "Mother vessel": {
+            "row": [28, 29],
+            "column": [0, 52],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Mother vessel",
+                "bottom": "Port of Discharge",
+                "left": -1,
+                "right": "Place of Loading"
+            }
+        },
+        "Port of Loading": {
+            "row": [28, 29],
+            "column": [52, 86],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of Loading",
+                "bottom": "Place of Delivery",
+                "left": "Mother vessel",
+                "right": "Final destination"
+            }
+        },
+        "Final destination": {
+            "row": [28, 31],
+            "column": [86, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Final destination",
+                "bottom": "PARTICULAR FURNISHED BY SHIPPER - CARRIER NOT RESPONSIBLE",
+                "left": "Port of Loading",
+                "right": -1
+            }
+        },
+        "Port of Discharge": {
+            "row": [30, 31],
+            "column": [0, 52],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Port of Discharge",
+                "bottom": "PARTICULAR FURNISHED BY SHIPPER - CARRIER NOT RESPONSIBLE",
+                "left": -1,
+                "right": "Place of Delivery"
+            }
+        },
+
+
+        "Place of Delivery": {
+            "row": [28, 29],
+            "column": [52, 86],
+            "isFlex": 1,
+            "endObject": {
+                "top": "Place of Delivery",
+                "bottom": "PARTICULAR FURNISHED BY SHIPPER - CARRIER NOT RESPONSIBLE",
+                "left": "Port of Discharge",
+                "right": "Final destination"
+            }
+        },
+
+
+        "Container/Seal No": {
+            "row": [34, 43],
+            "column": [0, 32],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "Container/Seal No",
+                "bottom": "TOTAL:",
+                "left": -1,
+                "right": "Size/ Type"
+            }
+        },
+        "Size/ Type": {
+            "row": [34, 43],
+            "column": [32, 52],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "Size/ Type",
+                "bottom": "TOTAL:",
+                "left": "Container/Seal No",
+                "right": "Shipping Marks"
+            }
+        },
+        "Shipping Marks": {
+            "row": [34, 43],
+            "column": [52, 86],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "Shipping Marks",
+                "bottom": "TOTAL:",
+                "left": "Size/ Type",
+                "right": "HS CODE/ HTS/ NCM:"
+            }
+        },
+        "Description of goods": {
+            "row": [34, 43],
+            "column": [86, 154],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "HS CODE/ HTS/ NCM:",
+                "bottom": "TOTAL:",
+                "left": "Shipping Marks",
+                "right": "Packages"
+            }
+        },
+        "Kind of Packages": {
+            "row": [34, 43],
+            "column": [154, 162],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "Packages",
+                "bottom": "TOTAL:",
+                "left": "HS CODE/ HTS/ NCM:",
+                "right": "\\(Kgs\\)"
+            }
+        },
+        "(Kgs)": {
+            "row": [34, 43],
+            "column": [162, 183],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "(Kgs)",
+                "bottom": "TOTAL:",
+                "left": "Packages",
+                "right": "\\(Cbm\\)"
+            }
+        },
+        "(Cbm)": {
+            "row": [34, 43],
+            "column": [183, null],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "\\(Cbm\\)",
+                "bottom": "TOTAL:",
+                "left": "\\(Kgs\\)",
+                "right": -1
+            }
+        },
+        "TOTAL:": {
+            "row": [34, 43],
+            "column": [136, null],
+            "isFlex": 1,
+            "isCenter": 1,
+            "endObject": {
+                "top": "same_left",
+                "bottom": "PREPAID",
+                "left": "TOTAL",
+                "right": -1
+            }
+        },
+        "ATTACHED SHEET": {
+            "row": [56, 69],
+            "column": [0, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "ATTACHED SHEET",
+                "bottom": "[*][*]END[*][*]",
+                "left": -1,
+                "right": -1
+            }
+        }
+    },
+    {
+        "Header": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]

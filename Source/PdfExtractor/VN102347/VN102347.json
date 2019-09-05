@@ -1,0 +1,374 @@
+{
+        "SHIPPER / EXPORT": {
+            "row": [2, 6],
+            "column": [0, 106],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "SHIPPER / EXPORT",
+                "bottom": "CONSIGNEE1",
+                "left": -1,
+                "right": "B/L NO"
+            }
+        },
+
+        "CONSIGNEE1": {
+            "row": [7, 13],
+            "column": [1, 106],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "CONSIGNEE1",
+                "bottom": "NOTIFY PARTY",
+                "left": -1,
+                "right": "FREIGHT PAYABLE AT"
+            }
+        },
+        "NOTIFY PARTY": {
+            "row": [14, 18],
+            "column": [16, 106],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "NOTIFY PARTY",
+                "bottom": "PRE-CARRIAGE BY",
+                "left": -1,
+                "right": "ALSO NOTIFY"
+            }
+        },
+        "B/L NO": {
+            "row": [2, 4],
+            "column": [107, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "B/L NO",
+                "bottom": "EXPORT REFERENCES",
+                "left": "SHIPPER/EXPORT",
+                "right": -1
+            }
+        },
+        "EXPORT REFERENCES": {
+            "row": [5, 6],
+            "column": [107, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "EXPORT REFERENCES",
+                "bottom": "FREIGHT PAYABLE AT",
+                "left": -1,
+                "right": -1
+            }
+        },
+        "FREIGHT PAYABLE AT": {
+            "row": [7, 8],
+            "column": [107, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "FREIGHT PAYABLE AT",
+                "bottom": "TYE OF SERVICE",
+                "left": "CONSIGNEE1",
+                "right": -1
+            }
+        },
+        "TYE OF SERVICE": {
+            "row": [9, 11],
+            "column": [107, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "TYE OF SERVICE",
+                "bottom": "CONTAINER NO",
+                "left": "CONSIGNEE1",
+                "right": -1
+            }
+        },
+        "CONTAINER NO": {
+            "row": [11, 12],
+            "column": [136, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "CONTAINER NO",
+                "bottom": "ALSO NOTIFY",
+                "left": "CONSIGNEE",
+                "right": -1
+            }
+        },
+        "ALSO NOTIFY": {
+            "row": [15, 19],
+            "column": [107, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "ALSO NOTIFY",
+                "bottom": "NUMBER ORIGINAL BILL OF LADING ISSUED",
+                "left": "NOTIFY PARTY",
+                "right": -1
+            }
+        },
+        "NUMBER ORIGINAL BILL OF LADING ISSUED": {
+            "row": [20, 24],
+            "column": [107, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "NUMBER ORIGINAL BILL OF LADING ISSUED",
+                "bottom": "DESCRIPTION OF PACKGES AND GOODS",
+                "left": "PORT OF LOADING",
+                "right": -1
+            }
+        },
+        "PRE-CARRIAGE BY": {
+            "row": [18, 19],
+            "column": [15, 51],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PRE-CARRIAGE BY",
+                "bottom": "OCEAN VESSEL / VOYAGE",
+                "left": -1,
+                "right": "PLACE OF RECEIPT"
+            }
+        },
+        "OCEAN VESSEL / VOYAGE": {
+            "row": [20, 21],
+            "column": [2, 51],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "OCEAN VESSEL / VOYAGE",
+                "bottom": "PORT OF DISCHARGE",
+                "left": -1,
+                "right": "PORT OF LOADING"
+            }
+        },
+        "PORT OF DISCHARGE": {
+            "row": [22, 24],
+            "column": [6, 51],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PORT OF DISCHARGE",
+                "bottom": "MARKS AND NUMBERS",
+                "left": -1,
+                "right": "PLACE OF DELIVERY"
+            }
+        },
+        "PLACE OF RECEIPT": {
+            "row": [18, 19],
+            "column": [69, 106],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PLACE OF RECEIPT",
+                "bottom": "PORT OF LOADING",
+                "left": "PRE-CARRIAGE BY",
+                "right": "ALSO NOTIFY"
+            }
+        },
+        "PORT OF LOADING": {
+            "row": [20, 21],
+            "column": [52, 106],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PORT OF LOADING",
+                "bottom": "PLACE OF DELIVERY",
+                "left": "OCEAN VESSEL / VOYAGE",
+                "right": "NUMBER ORIGINAL BILL OF LADING ISSUED"
+            }
+        },
+        "PLACE OF DELIVERY": {
+            "row": [22, 24],
+            "column": [62, 106],
+            "isFlex": 1,
+
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 0,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PLACE OF DELIVERY",
+                "bottom": "NO.OF CONT",
+                "left": "PORT OF DISCHARGE",
+                "right": "NUMBER ORIGINAL BILL OF LADING ISSUED"
+            }
+        },
+        "MARKS AND NUMBERS": {
+            "row": [25, 41],
+            "column": [2, 56],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "MARKS AND NUMBERS",
+                "bottom": "SHIPPED ONBOARD THE VESSEL",
+                "left": -1,
+                "right": "NO.OF CONT"
+            }
+        },
+        "NO.OF CONT": {
+            "row": [25, 41],
+            "column": [57,83],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "NO.OF CONT",
+                "bottom": "SHIPPED ONBOARD THE VESSEL",
+                "left": "MARKS AND NUMBERS",
+                "right": "DESCRIPTION OF PACKGES AND GOODS"
+            }
+        },
+        "DESCRIPTION OF PACKGES AND GOODS": {
+            "row": [25, 41],
+            "column": [84, 152],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "DESCRIPTION OF PACKGES AND GOODS",
+                "bottom": "SHIPPED ONBOARD THE VESSEL",
+                "left": "NO.OF CONT",
+                "right": "GROSS WEIGHT1"
+            }
+        },
+        "GROSS WEIGHT1": {
+            "row": [25, 41],
+            "column": [153, 176],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "GROSS WEIGHT1",
+                "bottom": "SHIPPED ONBOARD THE VESSEL",
+                "left": "DESCRIPTION OF PACKGES AND GOODS",
+                "right": "MEASUREMENT"
+            }
+        },
+        "MEASUREMENT": {
+            "row": [25, 41],
+            "column": [177, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "MEASUREMENT",
+                "bottom": "SHIPPED ONBOARD THE VESSEL",
+                "left": "GROSS WEIGHT1",
+                "right": -1
+            }
+        },
+        "SIGNED AT": {
+            "row": [42, 43],
+            "column": [13, 60],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "SHIPPED ONBOARD THE VESSEL",
+                "bottom": "SIGNED AT",
+                "left": -1,
+                "right": "DATE"
+            }
+        },
+        "DATE": {
+            "row": [42, 43],
+            "column": [66, 95],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "SHIPPED ONBOARD THE VESSEL",
+                "bottom": "DATE",
+                "left": -1,
+                "right": -1
+            }
+        },
+
+        "FREIGHT AND CHARES": {
+            "row": [47, null],
+            "column": [0, 33],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "FREIGHT AND CHARES",
+                "bottom": -1,
+                "left": -1,
+                "right": "PREPAID"
+            }
+        },
+        "PREPAID": {
+            "row": [47, null],
+            "column": [34, 65],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PREPAID",
+                "bottom": -1,
+                "left": "FREIGHT AND CHARES",
+                "right": "COLLECT"
+            }
+        },
+        "COLLECT": {
+            "row": [47, null],
+            "column": [66, 95],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "PREPAID",
+                "bottom": -1,
+                "left": "FREIGHT AND CHARES",
+                "right": -1
+            }
+        },
+        "SHIPPED ONBOARD THE VESSEL": {
+            "row": [42, 44],
+            "column": [96, null],
+            "isFlex": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "SHIPPED ONBOARD THE VESSEL",
+                "bottom": -1,
+                "left": -1,
+                "right": -1
+            }
+        },
+        "A": {
+            "row": [44, null],
+            "column": [95, null],
+            "isFlex": 1,
+
+            "contentSameLineWithKeyword": 0,
+            "topAndKeywordOnSingleLine": 1,
+            "hasSubfield": 0,
+
+            "endObject": {
+                "top": "COLLECT",
+                "bottom": -1,
+                "left": "COLLECT",
+                "right": -1
+            }
+        }
+}

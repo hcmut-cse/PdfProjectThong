@@ -1,0 +1,22 @@
+	"DATA1": {
+            "row": [1, 7],
+            "column": [133, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "NOTIFY",
+                "bottom": -1,
+                "left": "SHIPPER",
+                "right": -1
+            }
+        },
+	"DATA2": {
+            "row": [7, 15],
+            "column": [34, null],
+            "isFlex": 1,
+            "endObject": {
+                "top": "CONSIGNEE",
+                "bottom": -1,
+                "left": "CONSIGNEE",
+                "right": -1
+            }
+        },

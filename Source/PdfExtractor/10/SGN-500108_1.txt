@@ -1,0 +1,179 @@
+------------------------------------
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)
+CO.,LTD.AS AGENT FOR
+PANTAINER(H.K)LTD.,3/F HAI AU
+BLDG,39B TRUONG SON ST,WARD 4,
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM
+
+------------------------------------
+------------------------------------
+DATA1:
+SGN 500108
+<SHIPPING INSTRUCTION
+
+OCEAN NETWORK EXPRESS PTE
+<BOOKING REFERENCE:
+DADV00348700
+------------------------------------
+------------------------------------
+DATA2:
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA BSC CHARLESTON AS AGENT 3rd floor, Hai Au building,
+PANTAINER(H.K)LTD.                                                                                              39B Truong Son Street, Ward 4,
+207 EAST BAY STREET 2ND FLOOR,                                                                                  Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES Vietnam
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HONG.TRUONG@PANALPINA.COM
+PANALPINA, INC.
+5700 LAKE WRIGHT DRIVE, SUITE 408
+NORFOLK VA 23502 USA VIRGINIA
+AS AGENT FOR AND ON BEHALF OF
+PANTAINER(H.K.)LIMITED
+________________________________________________________________________
+------------------------------------
+------------------------------------
+CONSIGNEE:
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+NOTIFY:
+
+------------------------------------
+------------------------------------
+PRE-CARRIAGE BY:
+
+------------------------------------
+------------------------------------
+OCEAN VESSEL:
+IWASHIRO                                                                                    010S
+------------------------------------
+------------------------------------
+PLACE OF RECEIPT:
+
+------------------------------------
+------------------------------------
+PORT OF LOADING:
+TIEN SA PORT,DA NANG
+------------------------------------
+------------------------------------
+PORT OF DISCHARGE:
+NEW YORK
+------------------------------------
+------------------------------------
+PLACE OF DELIVERY:
+NEW YORK
+------------------------------------
+------------------------------------
+MARKS & NOS.:
+CONT-NO TCNU6370564
+SL:VN132953A
+
+NO MARKS
+CONT-NO TEMU7876602
+SL:VN132953A
+
+NO MARKS
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+QUANT.PACKAGE:
+-----------
+1 40' HC
+
+
+
+1 40' HC
+
+
+
+
+
+
+
+
+
+======
+2
+------------------------------------
+------------------------------------
+DESCRIPTION OF GOODS:
+
+
+
+955 CARTONS
+PARTY GOODS
+
+
+1138 CARTONS
+PARTY GOODS
+HBL NO:SGN500015
+SCAC CODE: PNEP
+AMS NO:PNEP19604500015
+NYCN00317 NAC AMSCAN
+40'HC SUB FOR 40'DC
+FOR BOTH CONTAINER
+==============                                                        ==============
+107.878 CBM
+------------------------------------
+------------------------------------
+G.WEIGHT KG:
+
+12,077.600
+53.627
+
+
+12,130.900
+54.251
+
+
+
+
+
+
+
+
+
+24,208.500
+------------------------------------
+------------------------------------
+OCEAN WAY BILL:
+Y
+------------------------------------
+------------------------------------
+OCEAN BILL:
+N
+------------------------------------
+------------------------------------
+NUMBER OF ORIGINAL:
+0
+------------------------------------
+------------------------------------
+RATED:
+0
+------------------------------------
+------------------------------------
+UNRATED:
+1
+------------------------------------
+------------------------------------
+PAYABLE AT:
+
+------------------------------------
+------------------------------------
+DESTINATION:
+
+------------------------------------

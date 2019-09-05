@@ -1,0 +1,61 @@
+SHIPPER:
+PANALPINA WORLD TRANSPORT(VIETNAM)                                                                                                   SGN 500108
+CO.,LTD.AS AGENT FOR                                                                                                                 <SHIPPING INSTRUCTION
+PANTAINER(H.K)LTD.,3/F HAI AU
+BLDG,39B TRUONG SON ST,WARD 4,                                                                                                       OCEAN NETWORK EXPRESS PTE
+TAN BINH DIST,HOCHIMINHCITY,VIETNAM                                                                                                  <BOOKING REFERENCE:
+                                                                                                                                     DADV00348700
+CONSIGNEE:                                                                                                      PANALPINA WORLD TRANSPORT (VN) LTD
+PANALPINA BSC CHARLESTON AS AGENT                                                                               3rd floor, Hai Au building,
+PANTAINER(H.K)LTD.                                                                                              39B Truong Son Street, Ward 4,
+ 207 EAST BAY STREET 2ND FLOOR,                                                                                 Tan Binh District Ho Chi Minh City,
+CHARLESTON, SC 29401 UNITED STATES                                                                              Vietnam
+EMAIL:IMPORT.FCL-USA@PANALPINA.COM                                                                              Phone:+84(8)73021122
+-----------------------------                                                                                   Fax:+8435471332
+NOTIFY:                                                                                                         HONG.TRUONG@PANALPINA.COM
+PANTAINER(H.K.)LIMITED
+________________________________________________________________________
+PRE-CARRIAGE BY :
+OCEAN VESSEL                                         : IWASHIRO                                                                                    010S
+PLACE OF RECEIPT :
+PORT OF LOADING : TIEN SA PORT,DA NANG
+PORT OF DISCHARGE: NEW YORK
+PLACE OF DELIVERY: NEW YORK
+MARKS & NOS.                                                    QUANT.PACKAGE                                        DESCRIPTION OF GOODS                                                                G.WEIGHT KG
+------------------- ----- -------- ------------------------ -----------
+CONT-NO 1                                                                    1 40' STD                                                                                                                             12,077.600
+SL:1                                                                                                                                                                                                                          53.627
+                                                                                                                                 956 CARTONS
+NO MARKS                                                                                                             PARTY GOODS
+                                                                                                                     PRODUCT MADE IN VIETNAM
+                                                                                                                     THIS SHIPMENT CONTAINS
+                                                                                                                     NO SOLID WOOD PACKING
+                                                                                                                     MATERIAL
+CONT-NO 2                                                                    1 40' STD                                                                                                                             12,130.900
+SL:2                                                                                                                                                                                                                          54.251
+                                                                                                                             1138 CARTONS
+NO MARKS                                                                                                             PARTY GOODS
+                                                                                                                     PRODUCT MADE IN VIETNAM
+                                                                                                                     THIS SHIPMENT CONTAINS
+                                                                                                                     NO SOLID WOOD PACKING
+                                                                                                                     MATERIAL
+                                                                                                                     2ND NOTIFY
+                                                                                                                     AMSCAN INC
+                                                                                                                     80 GRASSLANDS ROAD
+                                                                                                                     ELMSFORD,
+                                                                                                                     NY, 10523 USA
+                                                                                                ** ADD.INFORMATION SEE NEXT PAGE **
+OCEAN WAY BILL                                                  Y                               OCEAN BILL                                         N
+NUMBER OF ORIGINAL                                                              0
+RATED                        0                                                  UNRATED                                              1
+PAYABLE AT                                    DESTINATION
+------------------ SHIPPING PARTICULARS ATTACHEMENT -------------------
+SHIPPER                                                 :                                                                                   500108 <---------------------
+NAME OF VESSEL:                                                                                ******************* FINAL DESTINATION:
+IWASHIRO                                                                                                                                                              NEW YORK
+      MARKS & NUMBERS                                             QUAN. PACKAGE                                                           C O N T E N T S                                                         WEIGHT
+------------------- ----- --------                                                                                      ------------------------ ----------
+                                                                                                                        > DISTRICT, QUANG NAM
+                                                                                                                        PROVINCE,VIETNAM
+                                                               ======                                                   ==============                                                       ==============
+                                                                               2                                                    107.878 CBM                                                         24,208.500

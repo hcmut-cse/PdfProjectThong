@@ -1,0 +1,52 @@
+##################################################
+TEMPLATE 8
+------------------------------------
+CLTV02250523_SGNV06780400_1_ocps_si@opussmtp.one-line.com_1(ocps20190225102009_1)_1.pdf 8
+Warning: CLTV02250523_SGNV06780400_1_ocps_si@opussmtp.one-line.com_1(ocps20190225102009_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV03062307_SGNV27956500_2_ocps_si@opussmtp.one-line.com_1(ocps20190306104651_1)_2.pdf 8
+Warning: CLTV03062307_SGNV27956500_2_ocps_si@opussmtp.one-line.com_1(ocps20190306104651_1)_2.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+ONEYSGNV52815400.pdf 8
+------------------------------------
+------------------------------------
+CLTV01173514_SGNV06815300_1_ocps_si@opussmtp.one-line.com_1(ocps20190117130628_1)_1.pdf 8
+Warning: CLTV01173514_SGNV06815300_1_ocps_si@opussmtp.one-line.com_1(ocps20190117130628_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+ONEYSGNV44586300.pdf 8
+Warning: ONEYSGNV44586300.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+VN104005_1.pdf 8
+Warning: VN104005_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+ONEYSGNV32982700.pdf 8
+------------------------------------
+------------------------------------
+SGNV33817500+(OBL).pdf 8
+Warning: SGNV33817500+(OBL).pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+ONEYSGNV32972600+(SEAWAY).pdf 8
+Warning: ONEYSGNV32972600+(SEAWAY).pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+ONEYSGNV27956500.pdf 8
+Warning: ONEYSGNV27956500.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+8.pdf 8
+Warning: 8.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+VN104005_2.pdf 8
+------------------------------------
+------------------------------------
+ONEYSGNV31545800.pdf 8
+Warning: ONEYSGNV31545800.pdf doesn't fully match the template
+------------------------------------
+##################################################

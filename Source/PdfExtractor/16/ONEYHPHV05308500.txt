@@ -1,0 +1,265 @@
+------------------------------------
+Date ::
+
+------------------------------------
+------------------------------------
+To::
+Ocean Network Express
+------------------------------------
+------------------------------------
+Attn ::
+
+------------------------------------
+------------------------------------
+Shipper (complete name and address):
+TOMY (HONG KONG) LIMITED
+UNIT 901-906,TOWER 1, ENTERPRISE SQUARE, 9 SHEUNG
+YUET ROAD, KOWLOON BAY, HONG KONG
+Enterprise code ：19493597-000-11-17-6
+
+
+
+------------------------------------
+------------------------------------
+Customers contact (name / tel / email) (for draft BL dispatching):
+
+------------------------------------
+------------------------------------
+Booking No.:
+
+------------------------------------
+------------------------------------
+B/L No.:
+ONEYHPHV05308500
+------------------------------------
+------------------------------------
+ORIGINAL:
+
+
+
+------------------------------------
+------------------------------------
+SURRENDER:
+
+
+
+------------------------------------
+------------------------------------
+SEAWAY:
+
+
+X
+------------------------------------
+------------------------------------
+Consignee (complete name and address):
+
+TOMY INTERNATIONAL, INC.
+2021 9TH. STREET SE
+DYERSVILLE, IA 52040-2316
+ATTN: Scott Sampson
+TEL: 563-875-5686
+Enterprise code (EIN number): 51-0305290
+------------------------------------
+------------------------------------
+Place of issue ::
+HAIPHONG
+------------------------------------
+------------------------------------
+Other requests ::
+CY TO DOOR
+PLEASE SEND COPY OF WAYBILL TO: Ricky.Liu@tomy.com.hk
+AMS FEE SHOULD BE PREPAID
+
+------------------------------------
+------------------------------------
+Notify Party:
+E. BESLER & CO.
+115 MARTIN LANE
+ELK GROVE VILLAGE, IL 60007-1309
+ATTN: KRISTY DOST
+TEL: 847-871-6458 FAX: 847-364-0300
+
+------------------------------------
+------------------------------------
+Also Notify Party:
+1) TOMY INTERNATIONAL, INC.
+101 CENTERPOINT DRIVE ROCHELLE, IL 61068
+Attn: DAVID MEADS
+Tel: 815-562-8008 Ext:3394
+2) TOYS SHIPPERS ASSOCIATION INC.
+2001 Ford Circle Dr Ste B Milford,Ohio,United States 45150
+------------------------------------
+------------------------------------
+Feeder vessel:
+
+------------------------------------
+------------------------------------
+Place of Receipt:
+HAIPHONG, VIETNAM
+------------------------------------
+------------------------------------
+Service Contract Number:
+CHIB00285
+------------------------------------
+------------------------------------
+Mother vessel:
+CONTI CRYSTAL V.109E
+------------------------------------
+------------------------------------
+Port of Loading:
+HAIPHONG, VIETNAM
+------------------------------------
+------------------------------------
+Place of Delivery:
+ROCHELLE, IL (DOOR)
+------------------------------------
+------------------------------------
+Final destination:
+
+
+
+------------------------------------
+------------------------------------
+Port of Discharge:
+TACOMA,WA
+------------------------------------
+------------------------------------
+Container/Seal No:
+
+BSIU9435228           MOL058471L
+CAIU9501371           MOL058472L
+TCLU8791647           MOL058470L
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Size/ Type:
+
+40'HQ
+40'HQ
+40'HQ
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Shipping Marks:
+
+TOMY
+ITEM NO.:
+QTY.: PCS
+DESC.:
+MADE IN VIETNAM
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+Payment:
+FREIGHT COLLECT
+------------------------------------
+------------------------------------
+Description of goods:
+PLASTIC TOYS
+HS CODE: 950300
+THE 3RD NOTIFY PARTY:
+SAME AS CONSIGNEE
+
+S/C : CHIB00285
+"               "
+THIS SHIPMENT CONTAINS NO ANY SOLID WOOD PACKING MATERIALS
+BSIU9435228 & CAIU9501371 LOADED BY GFT VIETNAM COMPANY LIMITED
+Tat Thuong Village, Cong Lac Commune,Tu Ky District,Hai Duong Province, Vietn
+TCLU8791647 LOADED BY LEO INDUSTRIES FAR EAST(VIET NAM) LIMITED COMPANY
+VANG PHAN VILLAGE, TUAN HUNG COMMUNE, KIM THANH DISTRICT, HAI DUONG PROVINCE,
+------------------------------------
+------------------------------------
+TOTAL::
+3658         16,209.00         195.01
+------------------------------------
+------------------------------------
+Kind of Packages:
+
+3658
+
+
+
+
+
+
+
+nam
+
+, VIETNAM
+------------------------------------
+------------------------------------
+(Kgs):
+
+16,209.00
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+(Cbm):
+
+195.0100
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+------------------------------------
+ATTACHED SHEET:
+Date : 22-Apr-19                                                                                 Page 1 of 1
+RE : VESSEL : CONTI CRYSTAL V.109E                   DESTINATION : ROCHELLE, IL
+1) ASSIGNED CONTAINER NO.        0450/2019              2) ASSIGNED CONTAINER NO.      0451/2019
+S/O NO.         : HPHV05308500                          S/O NO.       : HPHV05308500
+SIZE            : 40HQ                                  SIZE          : 40HQ
+CONT. NO.       : BSIU9435228                           CONT. NO.     : CAIU9501371
+SEAL NO.        : MOL058471L                            SEAL NO.      : MOL058472L
+TOTAL GR. WT. :     11,193.00 LBS/   5,079.75 KGS       TOTAL GR. WT. :   13,080.60 LBS/   5,932.45 KGS
+TOTAL MEAS.     :       64.06 CBM                       TOTAL MEAS.   :       61.85 CBM
+TOTAL CTNS.     :         975CARTONS                    TOTAL CTNS.   :       1,563CARTONS
+3) ASSIGNED CONTAINER NO.        0452/2019
+S/O NO.         : HPHV05309600
+SIZE            : 40HQ
+CONT. NO.       : TCLU8791647
+SEAL NO.        : MOL058470L
+TOTAL GR. WT. :     11,446.40 LBS/   5,196.80 KGS
+TOTAL MEAS.     :       69.10 CBM
+TOTAL CTNS.     :       1,120CARTONS
+GRAND TOTAL PACKAGE:          3,658 CTNS
+G. W.: 35,720.00 LBS/ 16,209.00 KGS
+MEAS.:     195.01 CBM
+------------------------------------

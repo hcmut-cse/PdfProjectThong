@@ -1,0 +1,36 @@
+##################################################
+TEMPLATE 3
+------------------------------------
+VN101697_2.pdf 3
+Warning: VN101697_2.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+VN101697_3.pdf 3
+Warning: VN101697_3.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01213105_HANV02266300_1_ocps_si@opussmtp.one-line.com_1(ocps20190121164953_1)_1.pdf 3
+------------------------------------
+------------------------------------
+CLTV01303595_HANV03032900_1_ocps_si@opussmtp.one-line.com_1(ocps20190130122641_1)_1.pdf 3
+Warning: CLTV01303595_HANV03032900_1_ocps_si@opussmtp.one-line.com_1(ocps20190130122641_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV02192035_HANV04380900_1_ocps_si@opussmtp.one-line.com_1(ocps20190219125904_1)_1.pdf 3
+Warning: CLTV02192035_HANV04380900_1_ocps_si@opussmtp.one-line.com_1(ocps20190219125904_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV02192094_HANV03710500_1_ocps_si@opussmtp.one-line.com_1(ocps20190219131724_1)_1.pdf 3
+Warning: CLTV02192094_HANV03710500_1_ocps_si@opussmtp.one-line.com_1(ocps20190219131724_1)_1.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+3.pdf 3
+------------------------------------
+------------------------------------
+SI+153.pdf 3
+Warning: SI+153.pdf doesn't fully match the template
+------------------------------------
+------------------------------------
+CLTV01164093_HANV01321800_1_ocps_si@opussmtp.one-line.com_1(ocps20190116141849_1)_1.pdf 3
+------------------------------------
+##################################################

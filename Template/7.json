@@ -1,0 +1,225 @@
+[
+	{
+		"Attn":
+		{
+			"row": [1,2],
+			"column": [7,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Shipper",
+				"left": "Attn:",
+				"right": -1
+			}
+		},
+
+		"Shipper":
+		{
+			"row": [3,7],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Shipper",
+				"bottom": "Consignee",
+				"left": -1,
+				"right": -1
+			},
+			"alias":
+			{
+				"alias_0": 
+				{
+					"name": "SHIPPER"
+				}
+			}
+		},
+
+		"Consignee":
+		{
+			"row": [8,13],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Consignee",
+				"bottom": "Notify",
+				"left": -1,
+				"right": -1
+			},
+			"alias":
+			{
+				"alias_0":
+				{
+					"name": "CONSIGNEE"
+				}
+			}
+		},
+
+		"Notify":
+		{
+			"row": [14,15],
+			"column": [0,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Notify",
+				"bottom": "Shipping Mark",
+				"left": -1,
+				"right": -1
+			},
+			"alias":
+            {
+                "alias_0":
+                {
+                    "name": "NOTIFY PARTY"
+                }
+            }
+		},
+
+		"Shipping Mark":
+		{
+			"row": [15,16],
+			"column": [16,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "SAME AS CONSIGNEE",
+				"bottom": "Booking No.",
+				"left": "Shipping Mark:",
+				"right": -1
+			}
+		},
+
+		"Booking No.":
+		{
+			"row": [16,17],
+			"column": [15,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Shipping Mark",
+				"bottom": "Container/Seal No.",
+				"left": "Booking No.:",
+				"right": -1
+			}
+		},
+
+		"Container/Seal No.":
+		{
+			"row": [17,18],
+			"column": [22,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Booking No.",
+				"bottom": "Temperature/Ventilation",
+				"left": "Container/Seal No.:",
+				"right": -1
+			}
+		},
+
+		"Temperature/Ventilation":
+		{
+			"row": [19,20],
+			"column": [27,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Container/Seal No.",
+				"bottom": "Port of Discharge",
+				"left": "Temperature/Ventilation:",
+				"right": -1
+			}
+		},
+
+		"Port of Discharge":
+		{
+			"row": [20,21],
+			"column": [22,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Temperature/Ventilation",
+				"bottom": "ETD",
+				"left": "Port of Discharge:",
+				"right": -1
+			}
+		},
+
+		"ETD":
+		{
+			"row": [21,22],
+			"column": [7,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Port of Discharge",
+				"bottom": "Commodity",
+				"left": "ETD:",
+				"right": -1
+			}
+		},
+
+		"Commodity":
+		{
+			"row": [22,23],
+			"column": [13,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "same_left",
+				"bottom": "Volume",
+				"left": "Commodity:",
+				"right": -1
+			}
+		},
+
+		"Volume":
+		{
+			"row": [23,24],
+			"column": [10,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Commodity",
+				"bottom": "Gross Weight",
+				"left": "Volume:",
+				"right": -1
+			}
+		},
+
+		"Gross Weight":
+		{
+			"row": [24,25],
+			"column": [16,null],
+			"isFlex": 1,
+			"endObject":
+			{
+				"top": "Volume",
+				"bottom": "Freight Prepaid",
+				"left": "Gross Weight:",
+				"right": -1
+			},
+			"alias":
+			{
+				"alias_0": 
+				{
+					"name": "Gross weight"
+				}
+			}
+		}
+	},
+	{
+        "Header": {
+            "row": [0,0],
+            "column": [0, 0],
+            "pages": "all"
+        },
+        "Footer": {
+            "row": [0, 0],
+            "column": [0, 0],
+            "pages": "all"
+        }
+    }
+]
