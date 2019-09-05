@@ -177,7 +177,7 @@ def drawTextboxMissingKws(sourceFile,modifiedFile,key,configString,s,CONFIG,ans,
 			x1=targetPos[2]+len(key)*4	
 			y1=targetPos[3]+10
 			rect=fitz.Rect(x0,y0,x1,y1)
-			highlight=page.addFreetextAnnot(rect,key,fontsize=12, fontname="helv", color=(1, 0, 0), rotate=0)	
+			highlight=page.addFreetextAnnot(rect,key,fontsize=12, fontname="helv", fill_color=(1, 0, 0), rotate=0)	
 			break
 		index+=1
 
@@ -219,7 +219,7 @@ def drawTextboxMissingKws(sourceFile,modifiedFile,key,configString,s,CONFIG,ans,
 							x1=x0+len(key)*targetSize*0.7
 							y1=y0+targetSize*1.4
 							rect=fitz.Rect(x0,y0,x1,y1)
-							highlight=page.addFreetextAnnot(rect,key,fontsize=targetSize-2, fontname="helv", color=(0, 1, 0), rotate=0)
+							highlight=page.addFreetextAnnot(rect,key,fontsize=targetSize-2, fontname="helv", fill_color=(0, 1, 0), rotate=0)
 				else:
 					x0=next_inst[0]
 					y0=(next_inst[1]-targetSize)
@@ -231,7 +231,7 @@ def drawTextboxMissingKws(sourceFile,modifiedFile,key,configString,s,CONFIG,ans,
 					x1=x0+len(key)*targetSize*0.7
 					y1=y0+targetSize*1.4
 					rect=fitz.Rect(x0,y0,x1,y1)
-					highlight=page.addFreetextAnnot(rect,key,fontsize=targetSize-2, fontname="helv", color=(1, 0, 0), rotate=0)
+					highlight=page.addFreetextAnnot(rect,key,fontsize=targetSize-2, fontname="helv", fill_color=(1, 0, 0), rotate=0)
 	doc.save(modifiedFile,garbage=4,deflate=True,clean=False)
 	copyfile(modifiedFile,sourceFile)
 
